@@ -1,0 +1,72 @@
+[
+  {
+    "urun": "Makarnalık Buğday",
+    "en_az": "13,5000 TL",
+    "en_cok": "19,0520 TL",
+    "ortalama": "16,2200 TL",
+    "miktar_kg": "190.780 KG"
+  },
+  {
+    "urun": "Beyaz Sert Buğday",
+    "en_az": "19,9000 TL",
+    "en_cok": "21,4500 TL",
+    "ortalama": "20,3819 TL",
+    "miktar_kg": "3.069.100 KG"
+  },
+  {
+    "urun": "Kırmızı Sert Buğday",
+    "en_az": "14,5000 TL",
+    "en_cok": "21,1810 TL",
+    "ortalama": "19,7547 TL",
+    "miktar_kg": "3.821.400 KG"
+  },
+  {
+    "urun": "Diğer Beyaz Buğday",
+    "en_az": "15,0000 TL",
+    "en_cok": "15,0000 TL",
+    "ortalama": "15,0000 TL",
+    "miktar_kg": "134.540 KG"
+  },
+  {
+    "urun": "Diğer Kırmızı Buğday",
+    "en_az": "13,5000 TL",
+    "en_cok": "20,0000 TL",
+    "ortalama": "16,7733 TL",
+    "miktar_kg": "3.064.880 KG"
+  },
+  {
+    "urun": "Arpa",
+    "en_az": "10,5000 TL",
+    "en_cok": "15,4500 TL",
+    "ortalama": "13,1746 TL",
+    "miktar_kg": "1.874.395 KG"
+  },
+  {
+    "urun": "Mısır",
+    "en_az": "14,4550 TL",
+    "en_cok": "16,8000 TL",
+    "ortalama": "15,8777 TL",
+    "miktar_kg": "142.800 KG"
+  },
+  {
+    "urun": "Nohut",
+    "en_az": "30,0000 TL",
+    "en_cok": "43,0000 TL",
+    "ortalama": "37,4589 TL",
+    "miktar_kg": "143.235 KG"
+  },
+  {
+    "urun": "Kuru Fasulye",
+    "en_az": "56,0000 TL",
+    "en_cok": "56,0000 TL",
+    "ortalama": "56,0000 TL",
+    "miktar_kg": "5.260 KG"
+  },
+  {
+    "urun": "Mercimek",
+    "en_az": "33,0000 TL",
+    "en_cok": "45,0000 TL",
+    "ortalama": "41,7578 TL",
+    "miktar_kg": "282.966 KG"
+  }
+]
