@@ -1,1130 +1,581 @@
 [
   {
-    "kategori": "HUBUBAT GRUBU",
-    "urun_adi": "Buğday (Ekm.)",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 11.000,
-    "ort": 18.260,
-    "tutar": 12548776,
-    "islem_sayisi": 1.102,
-    "miktar": 188023416.04,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT GRUBU",
-    "urun_adi": "Buğday Yemlik",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 12.000,
-    "ort": 12.000,
-    "tutar": 51360.00,
-    "islem_sayisi": 2,
-    "miktar": 4.280,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT GRUBU",
-    "urun_adi": "Çayır otu",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 5.000,
-    "ort": 5.000,
-    "tutar": 61350.00,
-    "islem_sayisi": 1,
-    "miktar": 12.270,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT GRUBU",
-    "urun_adi": "Arpa",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 10.600,
-    "ort": 13.510,
-    "tutar": 1853367.70,
-    "islem_sayisi": 19,
-    "miktar": 151.532,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT GRUBU",
-    "urun_adi": "Mısır",
-    "satis_sekli": "İTHAL",
-    "en_az": 0,
-    "en_cok": 12.364,
-    "ort": 12.364,
-    "tutar": 61817887.00,
-    "islem_sayisi": 1,
-    "miktar": 5000000,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT GRUBU",
-    "urun_adi": "Çeltik",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 32.000,
-    "ort": 32.250,
-    "tutar": 4832230.00,
-    "islem_sayisi": 15,
-    "miktar": 150.640,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT GRUBU",
-    "urun_adi": "Pirinç",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 63.000,
-    "ort": 99.010,
-    "tutar": 5078878.01,
-    "islem_sayisi": 30,
-    "miktar": 69.146,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT GRUBU",
-    "urun_adi": "Buğday Tohumluk",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 16.500,
-    "ort": 21.000,
-    "tutar": 13986012.00,
-    "islem_sayisi": 18,
-    "miktar": 713.662,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT GRUBU",
-    "urun_adi": "Yulaf",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 11.000,
-    "ort": 14.000,
-    "tutar": 304545.15,
-    "islem_sayisi": 7,
-    "miktar": 24.795,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT GRUBU",
-    "urun_adi": "Yulaf Tohumluk",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 20.800,
-    "ort": 20.800,
-    "tutar": 926848.00,
-    "islem_sayisi": 1,
-    "miktar": 44.560,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT GRUBU",
-    "urun_adi": "Pirinç (Kırıklı)",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 13.000,
-    "ort": 13.000,
-    "tutar": 175500.00,
-    "islem_sayisi": 1,
-    "miktar": 13.500,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT GRUBU",
-    "urun_adi": "Buğday Kırıklı",
-    "satis_sekli": "KOP.S",
-    "en_az": 0,
-    "en_cok": 13.000,
-    "ort": 13.000,
-    "tutar": 563940.00,
-    "islem_sayisi": 1,
-    "miktar": 43.380,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT GRUBU",
-    "urun_adi": "Triticale",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 11.200,
-    "ort": 12.500,
-    "tutar": 5440441.50,
-    "islem_sayisi": 37,
-    "miktar": 476.647,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT MAMÜLLERİ",
-    "urun_adi": "Un Tip 1 50 Kg.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 900.000,
-    "ort": 1287.129,
-    "tutar": 50335059.24,
-    "islem_sayisi": 245,
-    "miktar": 45.815,
-    "birim": "Cv"
-  },
-  {
-    "kategori": "HUBUBAT MAMÜLLERİ",
-    "urun_adi": "Un 25 Kg.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 476.714,
-    "ort": 643.564,
-    "tutar": 2266235.18,
-    "islem_sayisi": 39,
-    "miktar": 4.068,
-    "birim": "Cv"
-  },
-  {
-    "kategori": "HUBUBAT MAMÜLLERİ",
-    "urun_adi": "Un 10 Kg.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 220.000,
-    "ort": 297.030,
-    "tutar": 195177.43,
-    "islem_sayisi": 33,
-    "miktar": 812,
-    "birim": "Cv"
-  },
-  {
-    "kategori": "HUBUBAT MAMÜLLERİ",
-    "urun_adi": "Un 1 Kg.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 25.248,
-    "ort": 29.000,
-    "tutar": 16849.50,
-    "islem_sayisi": 8,
-    "miktar": 620,
-    "birim": "PK"
-  },
-  {
-    "kategori": "HUBUBAT MAMÜLLERİ",
-    "urun_adi": "Un Tip 1 50 kg.(fiyat farki)",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 2.277,
-    "ort": 2.277,
-    "tutar": 22772.30,
-    "islem_sayisi": 1,
-    "miktar": 10.000,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT MAMÜLLERİ",
-    "urun_adi": "Un 5 kg.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 110.000,
-    "ort": 155.000,
-    "tutar": 40479.21,
-    "islem_sayisi": 10,
-    "miktar": 342,
-    "birim": "PK"
-  },
-  {
-    "kategori": "HUBUBAT MAMÜLLERİ",
-    "urun_adi": "Buğday Kepeği",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 8.100,
-    "ort": 13.333,
-    "tutar": 11071899.51,
-    "islem_sayisi": 100,
-    "miktar": 1031.590,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT MAMÜLLERİ",
-    "urun_adi": "Razmol",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 11.670,
-    "ort": 14.670,
-    "tutar": 1038907.49,
-    "islem_sayisi": 17,
-    "miktar": 86.490,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT MAMÜLLERİ",
-    "urun_adi": "Çeltik Kepeği",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 11.500,
-    "ort": 11.500,
-    "tutar": 180320.00,
-    "islem_sayisi": 1,
-    "miktar": 15.680,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HUBUBAT MAMÜLLERİ",
-    "urun_adi": "Bonkalite",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 9.100,
-    "ort": 16.250,
-    "tutar": 2545186.01,
-    "islem_sayisi": 16,
-    "miktar": 227.410,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "YAĞLI TOHUMLAR",
-    "urun_adi": "Ayçiçek (Yağlık)",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 32.400,
-    "ort": 66.676,
-    "tutar": 33960297.32,
-    "islem_sayisi": 187,
-    "miktar": 865.494,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "YAĞLI TOHUMLAR",
-    "urun_adi": "Kanola",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 24.310,
-    "ort": 31.620,
-    "tutar": 91813343.70,
-    "islem_sayisi": 205,
-    "miktar": 3371.385,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "YAĞLI TOHUMLAR",
-    "urun_adi": "Kanola (F.Farkı)",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 1.155,
-    "ort": 1.155,
-    "tutar": 1714193.25,
-    "islem_sayisi": 1,
-    "miktar": 1484.100,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "NEBATİ VE HAM YAĞLAR",
-    "urun_adi": "Rf.Ayç.Yağ.18 Lt.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 782.178,
-    "ort": 2900.000,
-    "tutar": 57612231.73,
-    "islem_sayisi": 359,
-    "miktar": 33.718,
-    "birim": "TNK"
-  },
-  {
-    "kategori": "NEBATİ VE HAM YAĞLAR",
-    "urun_adi": "Rf.Ayç.Yağ.10 Lt.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 953.040,
-    "ort": 1022.770,
-    "tutar": 480402.28,
-    "islem_sayisi": 11,
-    "miktar": 498,
-    "birim": "TNK"
-  },
-  {
-    "kategori": "NEBATİ VE HAM YAĞLAR",
-    "urun_adi": "Rf.Ayç.Yağ. 5 Lt.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 294.292,
-    "ort": 580.210,
-    "tutar": 38751725.20,
-    "islem_sayisi": 173,
-    "miktar": 84.310,
-    "birim": "TNK"
-  },
-  {
-    "kategori": "NEBATİ VE HAM YAĞLAR",
-    "urun_adi": "Rf.Ayç.Yağ. 2 Lt.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 188.720,
-    "ort": 241.830,
-    "tutar": 3815354.82,
-    "islem_sayisi": 66,
-    "miktar": 18.352,
-    "birim": "SI"
-  },
-  {
-    "kategori": "NEBATİ VE HAM YAĞLAR",
-    "urun_adi": "Rf.Ayç.Yağ. 1 Lt.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 96.050,
-    "ort": 122.730,
-    "tutar": 2703217.29,
-    "islem_sayisi": 64,
-    "miktar": 25.132,
-    "birim": "SI"
-  },
-  {
-    "kategori": "NEBATİ VE HAM YAĞLAR",
-    "urun_adi": "Rafine Ayçiçek Yağı (kg)",
-    "satis_sekli": "KOP.S",
-    "en_az": 0,
-    "en_cok": 74.379,
-    "ort": 121.012,
-    "tutar": 735594210.37,
-    "islem_sayisi": 757,
-    "miktar": 7700.848,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "NEBATİ VE HAM YAĞLAR",
-    "urun_adi": "Rf.Ayç.Yağ.4 Lt.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 357.650,
-    "ort": 453.480,
-    "tutar": 1817509.76,
-    "islem_sayisi": 24,
-    "miktar": 4.724,
-    "birim": "TNK"
-  },
-  {
-    "kategori": "NEBATİ VE HAM YAĞLAR",
-    "urun_adi": "Rf.Ayç.Yağ.4,5 Lt.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 417.600,
-    "ort": 503.190,
-    "tutar": 1360870.54,
-    "islem_sayisi": 23,
-    "miktar": 3.116,
-    "birim": "TNK"
-  },
-  {
-    "kategori": "NEBATİ VE HAM YAĞLAR",
-    "urun_adi": "Rf.Ayç.Yağı F.Farkı (kg)",
-    "satis_sekli": "KOP.S",
-    "en_az": 0,
-    "en_cok": 0.185,
-    "ort": 39.360,
-    "tutar": 115324.09,
-    "islem_sayisi": 3,
-    "miktar": 20.124,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "NEBATİ YAĞLAR",
-    "urun_adi": "Margarin Yağ ( Kg.)",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 101.420,
-    "ort": 109.460,
-    "tutar": 10020482.43,
-    "islem_sayisi": 4,
-    "miktar": 94.783,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HAM AYÇİÇEK YAĞI",
-    "urun_adi": "Ham Ayçiçek Yağı",
-    "satis_sekli": "İTHAL",
-    "en_az": 0,
-    "en_cok": 66.886,
-    "ort": 66.886,
-    "tutar": 9343153.80,
-    "islem_sayisi": 1,
-    "miktar": 139.687,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HAM AYÇİÇEK YAĞI",
-    "urun_adi": "Yemeklik Zeytinyağ.(kg)",
-    "satis_sekli": "TBOS",
-    "en_az": 0,
-    "en_cok": 323.000,
-    "ort": 332.500,
-    "tutar": 307640.00,
-    "islem_sayisi": 6,
-    "miktar": 944,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HAM AYÇİÇEK YAĞI",
-    "urun_adi": "Yemeklik zeytinyağ 1 Lt.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 259.092,
-    "ort": 321.120,
-    "tutar": 82767.89,
-    "islem_sayisi": 8,
-    "miktar": 288,
-    "birim": "SI"
-  },
-  {
-    "kategori": "HAM AYÇİÇEK YAĞI",
-    "urun_adi": "Yemeklik Zeytinyağ 2 Lt.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 514.220,
-    "ort": 636.960,
-    "tutar": 78153.31,
-    "islem_sayisi": 19,
-    "miktar": 134,
-    "birim": "SI"
-  },
-  {
-    "kategori": "HAM AYÇİÇEK YAĞI",
-    "urun_adi": "Yemeklik Zeytinyağ 5 Lt.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 1285.690,
-    "ort": 1589.760,
-    "tutar": 163303.67,
-    "islem_sayisi": 22,
-    "miktar": 115,
-    "birim": "SI"
-  },
-  {
-    "kategori": "RAFİNE MISIR ÖZÜ YAĞLARI",
-    "urun_adi": "Mısır Özü Yağı 1.Lt.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 99.860,
-    "ort": 107.280,
-    "tutar": 208792.72,
-    "islem_sayisi": 9,
-    "miktar": 1.960,
-    "birim": "SI"
-  },
-  {
-    "kategori": "RAFİNE MISIR ÖZÜ YAĞLARI",
-    "urun_adi": "Mısır Özü Yağı 2.Lt.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 194.776,
-    "ort": 209.280,
-    "tutar": 223803.84,
-    "islem_sayisi": 8,
-    "miktar": 1.080,
-    "birim": "SI"
-  },
-  {
-    "kategori": "RAFİNE MISIR ÖZÜ YAĞLARI",
-    "urun_adi": "Mısır Özü Yagı 5.Lt.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 467.170,
-    "ort": 518.400,
-    "tutar": 556980.72,
-    "islem_sayisi": 20,
-    "miktar": 1.132,
-    "birim": "TNK"
-  },
-  {
-    "kategori": "RAFİNE MISIR ÖZÜ YAĞLARI",
-    "urun_adi": "Mısır Özü Yağı 18 lt.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 1655.280,
-    "ort": 1742.400,
-    "tutar": 2620613.33,
-    "islem_sayisi": 22,
-    "miktar": 1.514,
-    "birim": "TNK"
-  },
-  {
-    "kategori": "RAFİNE MISIR ÖZÜ YAĞLARI",
-    "urun_adi": "Rafine Mısırözü Yağ (kg)",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 88.500,
-    "ort": 116.418,
-    "tutar": 79199756.90,
-    "islem_sayisi": 13,
-    "miktar": 850.661,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "RAFİNE MISIR ÖZÜ YAĞLARI",
-    "urun_adi": "Ham Kanola yağı",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 58.250,
-    "ort": 69.250,
-    "tutar": 104301912.50,
-    "islem_sayisi": 6,
-    "miktar": 1585.950,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "RAFİNE MISIR ÖZÜ YAĞLARI",
-    "urun_adi": "Kanola yağı 5 lt.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 364.500,
-    "ort": 386.040,
-    "tutar": 111338.96,
-    "islem_sayisi": 5,
-    "miktar": 292,
-    "birim": "TNK"
-  },
-  {
-    "kategori": "RAFİNE MISIR ÖZÜ YAĞLARI",
-    "urun_adi": "Rafine Kanola yağı (kg.)",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 77.000,
-    "ort": 81.967,
-    "tutar": 2755822.48,
-    "islem_sayisi": 3,
-    "miktar": 35.184,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "ÇEŞİTLİ GIDA MADDELERİ",
-    "urun_adi": "Beyaz Pey.B.Tnk.",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 5693.070,
-    "ort": 6732.675,
-    "tutar": 79158.42,
-    "islem_sayisi": 8,
-    "miktar": 12,
-    "birim": "TNK"
-  },
-  {
-    "kategori": "ÇEŞİTLİ GIDA MADDELERİ",
-    "urun_adi": "Beyaz Pey.Kg.(çıplak)",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 158.420,
-    "ort": 643.570,
-    "tutar": 7415414.49,
-    "islem_sayisi": 334,
-    "miktar": 23.387,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "ÇEŞİTLİ GIDA MADDELERİ",
-    "urun_adi": "Lor",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 45.000,
-    "ort": 133.660,
-    "tutar": 96691.64,
-    "islem_sayisi": 54,
-    "miktar": 1.209,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "ÇEŞİTLİ GIDA MADDELERİ",
-    "urun_adi": "Tereyağ",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 377.175,
-    "ort": 524.760,
-    "tutar": 370973.56,
-    "islem_sayisi": 54,
-    "miktar": 781,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "ÇEŞİTLİ GIDA MADDELERİ",
-    "urun_adi": "Kaşer Peyniri",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 244.700,
-    "ort": 1064.380,
-    "tutar": 9780625.76,
-    "islem_sayisi": 214,
-    "miktar": 17.383,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "SÜTLER",
-    "urun_adi": "İnek Sütü",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 24.300,
-    "ort": 28.000,
-    "tutar": 5688924.19,
-    "islem_sayisi": 33,
-    "miktar": 218.780,
-    "birim": "LT"
-  },
-  {
-    "kategori": "SÜTLER",
-    "urun_adi": "Koyun Sütü",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 60.000,
-    "ort": 75.000,
-    "tutar": 345390.00,
-    "islem_sayisi": 5,
-    "miktar": 4.970,
-    "birim": "LT"
-  },
-  {
-    "kategori": "SÜTLER",
-    "urun_adi": "Keçi Sütü",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 40.000,
-    "ort": 40.000,
-    "tutar": 1485080.00,
-    "islem_sayisi": 29,
-    "miktar": 37.127,
-    "birim": "LT"
-  },
-  {
-    "kategori": "ÇEŞİTLİ MADDELER",
-    "urun_adi": "Patates",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 25.000,
-    "ort": 25.000,
-    "tutar": 375000.00,
-    "islem_sayisi": 1,
-    "miktar": 15.000,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HAYVANSAL ÜRÜNLER",
-    "urun_adi": "Büyükbaş Et (Karkas)",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 650.000,
-    "ort": 991.188,
-    "tutar": 30243549.68,
-    "islem_sayisi": 35,
-    "miktar": 44.238,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HAYVANSAL ÜRÜNLER",
-    "urun_adi": "Küçükbaş Et (Karkas)",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 800.000,
-    "ort": 850.000,
-    "tutar": 7435014.62,
-    "islem_sayisi": 6,
-    "miktar": 8.836,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HAYVANSAL ÜRÜNLER",
-    "urun_adi": "Yumurta",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 4.290,
-    "ort": 4.950,
-    "tutar": 2733760.18,
-    "islem_sayisi": 44,
-    "miktar": 571.440,
-    "birim": "Ad"
-  },
-  {
-    "kategori": "HAYVANSAL ÜRÜNLER",
-    "urun_adi": "Büyükbaş Sakatat",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 23.000,
-    "ort": 28.100,
-    "tutar": 2498341.45,
-    "islem_sayisi": 5,
-    "miktar": 89.705,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HAYVANSAL ÜRÜNLER",
-    "urun_adi": "Küçükbaş Sakatat",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 500.000,
-    "ort": 900.000,
-    "tutar": 219300.00,
-    "islem_sayisi": 2,
-    "miktar": 245,
-    "birim": "Ad"
-  },
-  {
-    "kategori": "HAYVANSAL ÜRÜNLER",
-    "urun_adi": "Köfte",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 940.590,
-    "ort": 940.590,
-    "tutar": 44678.03,
-    "islem_sayisi": 1,
-    "miktar": 48,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HAYVANSAL ÜRÜNLER",
-    "urun_adi": "Kavurma",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 1302.965,
-    "ort": 1584.160,
-    "tutar": 4058067.97,
-    "islem_sayisi": 14,
-    "miktar": 2.976,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HAYVANSAL ÜRÜNLER",
-    "urun_adi": "Sucuk",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 856.237,
-    "ort": 1039.600,
-    "tutar": 3844321.22,
-    "islem_sayisi": 15,
-    "miktar": 4.212,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HAYVANSAL ÜRÜNLER",
-    "urun_adi": "Kavurmalik Karkas Et",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 300.000,
-    "ort": 300.000,
-    "tutar": 1026300.00,
-    "islem_sayisi": 17,
-    "miktar": 3.421,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HAYVANSAL ÜRÜNLER",
-    "urun_adi": "Büyükbaş Et(Kemiksiz)",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 700.000,
-    "ort": 1126.867,
-    "tutar": 18301569.85,
-    "islem_sayisi": 39,
-    "miktar": 21.405,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "YAŞ VE KURU MEYVALAR",
-    "urun_adi": "Karpuz",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 5.000,
-    "ort": 5.000,
-    "tutar": 360000.00,
-    "islem_sayisi": 1,
-    "miktar": 72.000,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "YAŞ VE KURU MEYVALAR",
-    "urun_adi": "Şeftali",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 15.000,
-    "ort": 15.000,
-    "tutar": 67500.00,
-    "islem_sayisi": 2,
-    "miktar": 4.500,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HAM DERİLER",
-    "urun_adi": "Sığır Derisi",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 11.000,
-    "ort": 21.000,
-    "tutar": 99332.00,
-    "islem_sayisi": 6,
-    "miktar": 5.062,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "HAM DERİLER",
-    "urun_adi": "Kuzu Derisi",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 50.000,
-    "ort": 50.000,
-    "tutar": 11450.00,
-    "islem_sayisi": 2,
-    "miktar": 229,
-    "birim": "Ad"
-  },
-  {
-    "kategori": "ÇEŞİTLİ MADDELER",
-    "urun_adi": "Süpürge Teli",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 100.000,
-    "ort": 100.000,
-    "tutar": 70000.00,
-    "islem_sayisi": 1,
-    "miktar": 700,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "SÜPÜRGE TOHUMU",
-    "urun_adi": "Saman",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 2.000,
-    "ort": 4.000,
-    "tutar": 4144128.00,
-    "islem_sayisi": 6,
-    "miktar": 2036032,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "SEBZE VE MEYVALAR",
-    "urun_adi": "Patlıcan",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 35.000,
-    "ort": 55.000,
-    "tutar": 23350.00,
-    "islem_sayisi": 3,
-    "miktar": 514,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "SEBZE VE MEYVALAR",
-    "urun_adi": "Kabak",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 20.000,
-    "ort": 20.000,
-    "tutar": 1600.00,
-    "islem_sayisi": 5,
-    "miktar": 80,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "SEBZE VE MEYVALAR",
-    "urun_adi": "Taze Fasülye",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 70.000,
-    "ort": 70.000,
-    "tutar": 6160.00,
-    "islem_sayisi": 3,
-    "miktar": 88,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "SEBZE VE MEYVALAR",
-    "urun_adi": "Dolma Biber",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 45.000,
-    "ort": 60.000,
-    "tutar": 17520.00,
-    "islem_sayisi": 3,
-    "miktar": 333,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "SEBZE VE MEYVALAR",
-    "urun_adi": "Domates",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 8.000,
-    "ort": 15.000,
-    "tutar": 1714335.00,
-    "islem_sayisi": 9,
-    "miktar": 158.981,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "SEBZE VE MEYVALAR",
-    "urun_adi": "Yaprak(Sarmalık)",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 180.000,
-    "ort": 195.000,
-    "tutar": 12969850.00,
-    "islem_sayisi": 63,
-    "miktar": 67.530,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "SEBZE VE MEYVALAR",
-    "urun_adi": "Havuç",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 7.000,
-    "ort": 20.000,
-    "tutar": 2002430.00,
-    "islem_sayisi": 22,
-    "miktar": 235.626,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "SEBZE VE MEYVALAR",
-    "urun_adi": "Çarliston Biber",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 60.000,
-    "ort": 65.000,
-    "tutar": 8875.00,
-    "islem_sayisi": 2,
-    "miktar": 145,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "BÜYÜKBAŞ CANLI HAYVAN",
-    "urun_adi": "Dana",
-    "satis_sekli": "HMS",
-    "en_az": 130,
-    "en_cok": 280.000,
-    "ort": 425.000,
-    "tutar": 59652110.76,
-    "islem_sayisi": 291,
-    "miktar": 168.280,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "BÜYÜKBAŞ CANLI HAYVAN",
-    "urun_adi": "İnek",
-    "satis_sekli": "HMS",
-    "en_az": 32,
-    "en_cok": 120.000,
-    "ort": 336.364,
-    "tutar": 6980989.30,
-    "islem_sayisi": 52,
-    "miktar": 28.130,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "BÜYÜKBAŞ CANLI HAYVAN",
-    "urun_adi": "Manda",
-    "satis_sekli": "HMS",
-    "en_az": 1,
-    "en_cok": 278.234,
-    "ort": 278.234,
-    "tutar": 584292.00,
-    "islem_sayisi": 4,
-    "miktar": 2.100,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "BÜYÜKBAŞ CANLI HAYVAN",
-    "urun_adi": "Düve",
-    "satis_sekli": "GTTS",
-    "en_az": 2,
-    "en_cok": 250.000,
-    "ort": 264.026,
-    "tutar": 99207.92,
-    "islem_sayisi": 3,
-    "miktar": 380,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "KÜÇÜKBAŞ CANLI HAYVAN",
-    "urun_adi": "Koyun",
-    "satis_sekli": "HMS",
-    "en_az": 2,
-    "en_cok": 200.000,
-    "ort": 220.000,
-    "tutar": 39900.00,
-    "islem_sayisi": 3,
-    "miktar": 187,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "KÜÇÜKBAŞ CANLI HAYVAN",
-    "urun_adi": "Kuzu",
-    "satis_sekli": "HMS",
-    "en_az": 41,
-    "en_cok": 310.000,
-    "ort": 393.117,
-    "tutar": 17345212.87,
-    "islem_sayisi": 1019,
-    "miktar": 48.208,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "KÜÇÜKBAŞ CANLI HAYVAN",
-    "urun_adi": "Süt Kuzusu",
-    "satis_sekli": "HMS",
-    "en_az": 3,
-    "en_cok": 330.000,
-    "ort": 380.000,
-    "tutar": 1016380.00,
-    "islem_sayisi": 58,
-    "miktar": 2.930,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "KÜÇÜKBAŞ CANLI HAYVAN",
-    "urun_adi": "Toklu",
-    "satis_sekli": "SS",
-    "en_az": 5,
-    "en_cok": 169.600,
-    "ort": 280.200,
-    "tutar": 366638.60,
-    "islem_sayisi": 22,
-    "miktar": 1.406,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "KÜSPELER VE PRİNA",
-    "urun_adi": "Küspe (Ayçiçek)",
-    "satis_sekli": "KOP.S",
-    "en_az": 0,
-    "en_cok": 12.400,
-    "ort": 12.400,
-    "tutar": 339016.00,
-    "islem_sayisi": 1,
-    "miktar": 27.340,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "KÜSPELER VE PRİNA",
-    "urun_adi": "Kanola Küspesi",
-    "satis_sekli": "TS",
-    "en_az": 0,
-    "en_cok": 12.000,
-    "ort": 15.400,
-    "tutar": 736340.00,
-    "islem_sayisi": 2,
-    "miktar": 53.740,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "KÜSPELER VE PRİNA",
-    "urun_adi": "Mısır Silajı",
-    "satis_sekli": "HMS",
-    "en_az": 0,
-    "en_cok": 4.500,
-    "ort": 4.500,
-    "tutar": 1633500.00,
-    "islem_sayisi": 2,
-    "miktar": 363.000,
-    "birim": "Kg"
-  },
-  {
-    "kategori": "KÜSPELER VE PRİNA",
-    "urun_adi": "Mısır Küspesi (DDGS)",
-    "satis_sekli": "İTHAL",
-    "en_az": 0,
-    "en_cok": 12.601,
-    "ort": 13.833,
-    "tutar": 30741121.42,
-    "islem_sayisi": 5,
-    "miktar": 2348.050,
-    "birim": "Kg"
-  }
-]
+    "urun": "Buğday (Ekm.)",
+    "en_az": "12,0000 TL",
+    "en_cok": "22,3000 TL",
+    "ortalama": "17,7885 TL",
+    "miktar_kg": "34.752.504 KG"
+  },
+  {
+    "urun": "Buğday Yemlik",
+    "en_az": "12,0000 TL",
+    "en_cok": "13,6000 TL",
+    "ortalama": "12,2810 TL",
+    "miktar_kg": "39.034 KG"
+  },
+  {
+    "urun": "Arpa",
+    "en_az": "11,0000 TL",
+    "en_cok": "15,2000 TL",
+    "ortalama": "12,9437 TL",
+    "miktar_kg": "423.410 KG"
+  },
+  {
+    "urun": "Arpa (Tohumluk)",
+    "en_az": "16,7500 TL",
+    "en_cok": "16,7500 TL",
+    "ortalama": "16,7500 TL",
+    "miktar_kg": "113.900 KG"
+  },
+  {
+    "urun": "Mısır",
+    "en_az": "11,2000 TL",
+    "en_cok": "16,2000 TL",
+    "ortalama": "14,6422 TL",
+    "miktar_kg": "389.060 KG"
+  },
+  {
+    "urun": "Çeltik",
+    "en_az": "30,3330 TL",
+    "en_cok": "32,7000 TL",
+    "ortalama": "31,0802 TL",
+    "miktar_kg": "53.880 KG"
+  },
+  {
+    "urun": "Pirinç",
+    "en_az": "63,0000 TL",
+    "en_cok": "99,0100 TL",
+    "ortalama": "75,3780 TL",
+    "miktar_kg": "101.221 KG"
+  },
+  {
+    "urun": "Buğday Tohumluk",
+    "en_az": "17,7500 TL",
+    "en_cok": "20,0000 TL",
+    "ortalama": "17,9582 TL",
+    "miktar_kg": "2.306.325 KG"
+  },
+  {
+    "urun": "Yulaf",
+    "en_az": "14,0000 TL",
+    "en_cok": "14,0000 TL",
+    "ortalama": "14,0000 TL",
+    "miktar_kg": "7.040 KG"
+  },
+  {
+    "urun": "Pirinç (Kırıklı)",
+    "en_az": "13,7500 TL",
+    "en_cok": "13,7500 TL",
+    "ortalama": "13,7500 TL",
+    "miktar_kg": "20.700 KG"
+  },
+  {
+    "urun": "Buğday Kırıklı",
+    "en_az": "12,3760 TL",
+    "en_cok": "13,8610 TL",
+    "ortalama": "13,2450 TL",
+    "miktar_kg": "100.597 KG"
+  },
+  {
+    "urun": "Buğday Fiyat Farkı",
+    "en_az": "3,0000 TL",
+    "en_cok": "3,0000 TL",
+    "ortalama": "3,0000 TL",
+    "miktar_kg": "20.270 KG"
+  },
+  {
+    "urun": "Triticale",
+    "en_az": "11,0000 TL",
+    "en_cok": "12,7500 TL",
+    "ortalama": "11,9800 TL",
+    "miktar_kg": "95.715 KG"
+  },
+  {
+    "urun": "Un Tip 1 50 Kg.",
+    "en_az": "890,0000 TL",
+    "en_cok": "1.336,6340 TL",
+    "ortalama": "1.136,5140 TL",
+    "miktar_kg": "42.312 Cv"
+  },
+  {
+    "urun": "Un 25 Kg.",
+    "en_az": "525,0000 TL",
+    "en_cok": "643,5640 TL",
+    "ortalama": "607,6390 TL",
+    "miktar_kg": "3.018 Cv"
+  },
+  {
+    "urun": "Un 10 Kg.",
+    "en_az": "220,0000 TL",
+    "en_cok": "297,0300 TL",
+    "ortalama": "246,5760 TL",
+    "miktar_kg": "1.064 Cv"
+  },
+  {
+    "urun": "Un 2 Kg.",
+    "en_az": "50,0000 TL",
+    "en_cok": "57,0000 TL",
+    "ortalama": "51,2230 TL",
+    "miktar_kg": "496 PK"
+  },
+  {
+    "urun": "Un 1 Kg.",
+    "en_az": "27,0000 TL",
+    "en_cok": "29,7030 TL",
+    "ortalama": "27,5500 TL",
+    "miktar_kg": "140 PK"
+  },
+  {
+    "urun": "Un 5 kg.",
+    "en_az": "110,0000 TL",
+    "en_cok": "116,8320 TL",
+    "ortalama": "115,3820 TL",
+    "miktar_kg": "183 PK"
+  },
+  {
+    "urun": "Buğday Kepeği",
+    "en_az": "6,4410 TL",
+    "en_cok": "15,0000 TL",
+    "ortalama": "10,2505 TL",
+    "miktar_kg": "1.701.394 KG"
+  },
+  {
+    "urun": "Razmol",
+    "en_az": "13,3300 TL",
+    "en_cok": "14,7500 TL",
+    "ortalama": "13,7370 TL",
+    "miktar_kg": "32.340 KG"
+  },
+  {
+    "urun": "Çeltik Kepeği",
+    "en_az": "12,3000 TL",
+    "en_cok": "12,3000 TL",
+    "ortalama": "12,3000 TL",
+    "miktar_kg": "14.500 KG"
+  },
+  {
+    "urun": "Bonkalite",
+    "en_az": "12,4000 TL",
+    "en_cok": "15,0000 TL",
+    "ortalama": "13,2310 TL",
+    "miktar_kg": "163.110 KG"
+  },
+  {
+    "urun": "Ayçiçek (Yağlık)",
+    "en_az": "27,4190 TL",
+    "en_cok": "43,0200 TL",
+    "ortalama": "34,8006 TL",
+    "miktar_kg": "95.204.428 KG"
+  },
+  {
+    "urun": "Kanola",
+    "en_az": "26,0000 TL",
+    "en_cok": "33,0200 TL",
+    "ortalama": "30,4055 TL",
+    "miktar_kg": "57.221 KG"
+  },
+  {
+    "urun": "Ayçiçek (Elek Altı)",
+    "en_az": "21,5000 TL",
+    "en_cok": "25,7500 TL",
+    "ortalama": "23,1280 TL",
+    "miktar_kg": "69.860 KG"
+  },
+  {
+    "urun": "Ayçiçek (Fiyat Farkı)",
+    "en_az": "2,2750 TL",
+    "en_cok": "8,4500 TL",
+    "ortalama": "6,1970 TL",
+    "miktar_kg": "12.133.210 KG"
+  },
+  {
+    "urun": "Rf.Ayç.Yağ.18 Lt.",
+    "en_az": "782,1780 TL",
+    "en_cok": "1.967,7700 TL",
+    "ortalama": "1,656.3489 TL",
+    "miktar_kg": "31.891 TNK"
+  },
+  {
+    "urun": "Rf.Ayç.Yağ.10 Lt.",
+    "en_az": "953,0400 TL",
+    "en_cok": "1.064,3570 TL",
+    "ortalama": "1.007,7430 TL",
+    "miktar_kg": "413 TNK"
+  },
+  {
+    "urun": "Rf.Ayç.Yağ. 5 Lt.",
+    "en_az": "431,6030 TL",
+    "en_cok": "580,2100 TL",
+    "ortalama": "454,9010 TL",
+    "miktar_kg": "92.306 TNK"
+  },
+  {
+    "urun": "Rf.Ayç.Yağ. 2 Lt.",
+    "en_az": "171,6190 TL",
+    "en_cok": "241,8300 TL",
+    "ortalama": "206,5935 TL",
+    "miktar_kg": "27.408 SI"
+  },
+  {
+    "urun": "Rf.Ayç.Yağ. 1 Lt.",
+    "en_az": "86,2920 TL",
+    "en_cok": "122,7300 TL",
+    "ortalama": "94,9270 TL",
+    "miktar_kg": "64.212 SI"
+  },
+  {
+    "urun": "Rafine Ayçiçek Yağı (kg)",
+    "en_az": "59,4300 TL",
+    "en_cok": "142,4000 TL",
+    "ortalama": "96,1460 TL",
+    "miktar_kg": "9.490.127 KG"
+  },
+  {
+    "urun": "Rf.Ayç.Yağ.4 Lt.",
+    "en_az": "343,2370 TL",
+    "en_cok": "453,4800 TL",
+    "ortalama": "395,9615 TL",
+    "miktar_kg": "17.404 TNK"
+  },
+  {
+    "urun": "Rf.Ayç.Yağ.4,5 Lt.",
+    "en_az": "393,7540 TL",
+    "en_cok": "503,1900 TL",
+    "ortalama": "435,8630 TL",
+    "miktar_kg": "8.596 TNK"
+  },
+  {
+    "urun": "Rafine Ayçiçek Yağı F.Farkı (kg)",
+    "en_az": "20,7970 TL",
+    "en_cok": "54,8330 TL",
+    "ortalama": "46,8920 TL",
+    "miktar_kg": "10.232 KG"
+  },
+  {
+    "urun": "Ham Ayçiçek Yağı",
+    "en_az": "74,0000 TL",
+    "en_cok": "85,0000 TL",
+    "ortalama": "80,2170 TL",
+    "miktar_kg": "671.540 KG"
+  },
+  {
+    "urun": "Yemeklik Zeytinyağ.(kg)",
+    "en_az": "323,0000 TL",
+    "en_cok": "349,6670 TL",
+    "ortalama": "328,7120 TL",
+    "miktar_kg": "1.832 KG"
+  },
+  {
+    "urun": "Yemeklik zeytinyağ 1 Lt.",
+    "en_az": "257,1800 TL",
+    "en_cok": "321,1200 TL",
+    "ortalama": "282,9860 TL",
+    "miktar_kg": "156 SI"
+  },
+  {
+    "urun": "Yemeklik Zeytinyağ 2 Lt.",
+    "en_az": "508,8050 TL",
+    "en_cok": "636,9600 TL",
+    "ortalama": "600,0800 TL",
+    "miktar_kg": "87 SI"
+  },
+  {
+    "urun": "Yemeklik Zeytinyağ 5 Lt.",
+    "en_az": "1.272,1490 TL",
+    "en_cok": "1.589,7600 TL",
+    "ortalama": "1.477,3590 TL",
+    "miktar_kg": "83 SI"
+  },
+  {
+    "urun": "Yemeklik zeytinyaği 18 lt.",
+    "en_az": "4.447,8240 TL",
+    "en_cok": "4.447,8240 TL",
+    "ortalama": "4.447,8240 TL",
+    "miktar_kg": "45 TNK"
+  },
+  {
+    "urun": "Mısır Özü Yağı 1.Lt.",
+    "en_az": "98,8590 TL",
+    "en_cok": "112,8000 TL",
+    "ortalama": "103,2480 TL",
+    "miktar_kg": "3.680 SI"
+  },
+  {
+    "urun": "Mısır Özü Yağı 2.Lt.",
+    "en_az": "196,6870 TL",
+    "en_cok": "220,0800 TL",
+    "ortalama": "207,3760 TL",
+    "miktar_kg": "2.664 SI"
+  },
+  {
+    "urun": "Mısır Özü Yagı 5.Lt.",
+    "en_az": "481,9200 TL",
+    "en_cok": "540,4800 TL",
+    "ortalama": "504,2860 TL",
+    "miktar_kg": "2.740 TNK"
+  },
+  {
+    "urun": "Mısır Özü Yağı 18 lt.",
+    "en_az": "1.739,1800 TL",
+    "en_cok": "1.830,7200 TL",
+    "ortalama": "1.801,0740 TL",
+    "miktar_kg": "644 TNK"
+  },
+  {
+    "urun": "Ham Kanola yağı",
+    "en_az": "60,0000 TL",
+    "en_cok": "64,5000 TL",
+    "ortalama": "62,2310 TL",
+    "miktar_kg": "489.600 KG"
+  },
+  {
+    "urun": "Kanola yağı 5 lt.",
+    "en_az": "364,5000 TL",
+    "en_cok": "417,8100 TL",
+    "ortalama": "384,6940 TL",
+    "miktar_kg": "1.768 TNK"
+  },
+  {
+    "urun": "Beyaz Pey.B.Tnk.",
+    "en_az": "4.554,4600 TL",
+    "en_cok": "8.910,8900 TL",
+    "ortalama": "6.023,5410 TL",
+    "miktar_kg": "186 TNK"
+  },
+  {
+    "urun": "Beyaz Pey.Kg.(çıplak)",
+    "en_az": "158,4200 TL",
+    "en_cok": "643,5600 TL",
+    "ortalama": "317,1040 TL",
+    "miktar_kg": "31.169 KG"
+  },
+  {
+    "urun": "Lor",
+    "en_az": "30,0000 TL",
+    "en_cok": "142,5700 TL",
+    "ortalama": "64,4140 TL",
+    "miktar_kg": "7.140 KG"
+  },
+  {
+    "urun": "Tereyağ",
+    "en_az": "297,0200 TL",
+    "en_cok": "526,5100 TL",
+    "ortalama": "512,0120 TL",
+    "miktar_kg": "657 KG"
+  },
+  {
+    "urun": "Kaşer Peyniri",
+    "en_az": "287,1300 TL",
+    "en_cok": "845,8300 TL",
+    "ortalama": "572,3520 TL",
+    "miktar_kg": "32.890 KG"
+  },
+  {
+    "urun": "İnek Sütü",
+    "en_az": "21,8000 TL",
+    "en_cok": "28,0000 TL",
+    "ortalama": "24,8460 TL",
+    "miktar_kg": "5.974.821 LT"
+  },
+  {
+    "urun": "Koyun Sütü",
+    "en_az": "75,0000 TL",
+    "en_cok": "75,0000 TL",
+    "ortalama": "75,0000 TL",
+    "miktar_kg": "2.911 LT"
+  },
+  {
+    "urun": "Keçi Sütü",
+    "en_az": "40,0000 TL",
+    "en_cok": "40,0000 TL",
+    "ortalama": "40,0000 TL",
+    "miktar_kg": "21.704 LT"
+  },
+  {
+    "urun": "Kuru Soğan",
+    "en_az": "20,0000 TL",
+    "en_cok": "25,0000 TL",
+    "ortalama": "24,3410 TL",
+    "miktar_kg": "5.759 KG"
+  },
+  {
+    "urun": "Sarmısak",
+    "en_az": "125,0000 TL",
+    "en_cok": "125,0000 TL",
+    "ortalama": "125,0000 TL",
+    "miktar_kg": "100 KG"
+  },
+  {
+    "urun": "Patates",
+    "en_az": "15,0000 TL",
+    "en_cok": "50,0000 TL",
+    "ortalama": "31,8790 TL",
+    "miktar_kg": "30.167 KG"
+  },
+  {
+    "urun": "Büyükbaş Et (Karkas)",
+    "en_az": "650,0000 TL",
+    "en_cok": "700,0000 TL",
+    "ortalama": "682,8450 TL",
+    "miktar_kg": "20.908 KG"
+  },
+  {
+    "urun": "Küçükbaş Et (Karkas)",
+    "en_az": "650,0000 TL",
+    "en_cok": "1.000,0000 TL",
+    "ortalama": "749,3205 TL",
+    "miktar_kg": "5.148 KG"
+  },
+  {
+    "urun": "Yumurta",
+    "en_az": "4,2900 TL",
+    "en_cok": "4,9500 TL",
+    "ortalama": "4,6600 TL",
+    "miktar_kg": "594.870 Ad"
+  },
+  {
+    "urun": "Büyükbaş Sakatat",
+    "en_az": "23,0000 TL",
+    "en_cok": "28,1000 TL",
+    "ortalama": "27,5690 TL",
+    "miktar_kg": "58.867 KG"
+  },
+  {
+    "urun": "Küçükbaş Sakatat",
+    "en_az": "500,0000 TL",
+    "en_cok": "900,0000 TL",
+    "ortalama": "897,7740 TL",
+    "miktar_kg": "270 Ad"
+  },
+  {
+    "urun": "Köfte",
+    "en_az": "940,6040 TL",
+    "en_cok": "940,6040 TL",
+    "ortalama": "940,6040 TL",
+    "miktar_kg": "526 KG"
+  },
+  {
+    "urun": "Kavurma",
+    "en_az": "1.302,9650 TL",
+    "en_cok": "1.683,1700 TL",
+    "ortalama": "1.345,2260 TL",
+    "miktar_kg": "3.389 KG"
+  },
+  {
+    "urun": "Sucuk",
+    "en_az": "856,2370 TL",
+    "en_cok": "1.138,7510 TL",
+    "ortalama": "925,3610 TL",
+    "miktar_kg": "3.474 KG"
+  },
+  {
+    "urun": "Kavurmalik Karkas Et",
+    "en_az": "300,0000 TL",
+    "en_cok": "300,0000 TL",
+    "ortalama": "300,0000 TL",
+    "miktar_kg": "1.037 KG"
+  },
+  {
+    "urun": "Büyükbaş Et(Kemiksiz)",
+    "en_az": "700,0000 TL",
+    "en_cok": "1.096,1410 TL",
+    "ortalama": "869,4950 TL",
+    "miktar_kg": "20.635 KG"
+  },
+  {
+    "urun": "Elma",
+    "en_az": "60,0000 TL",
+    "en_cok": "60,0000 TL",
+    "ortalama": "60,0000 TL",
+    "miktar_kg": "300 KG"
+  },
+  {
+    "urun": "Fıstık",
+    "en_az": "110,0000 TL",
+    "en_cok": "120,0000 TL",
+    "ortalama": "116,4750 TL",
+    "miktar_kg": "7.915 KG"
+  },
+  {
+    "urun": "Kavun",
+    "en_az": "10,0000 TL",
+    "en_cok": "16,0000 TL",
+    "ortalama": "10,2220 TL",
+    "miktar_kg": "13.500 KG"
+  },
+  {
+    "urun": "Erik",
+    "en_az": "30,0000 TL",
+    "en_cok": "40,0000 TL",
+    "ortalama": "33,7530 TL",
+    "miktar_kg": "425 KG"
+  },
+  {
+    "urun": "Armut",
+    "en_az": "15,0000 TL",
+    "en_cok": "60,0000 TL",
+    "ortalama": "23,3350 TL",
+    "miktar_kg": "34.400 KG"
+  },
+  {
+    "urun": "Şeftali",
+    "en_az": "13,0000 TL",
+    "en_cok": "40,0000 TL",
+    "ortalama": "19,8720 TL",
+    "miktar_kg": "4.549 KG"
+  },
+  {
+    "urun": "Pamuk",
+    "en_az": "90,0000 TL",
+    "en_cok": "90,0000 TL",
+    "ortalama": "90,0000 TL",
+    "miktar_kg": "128.620 KG"
+  },
+  {
+    "urun": "Sığır Derisi",
+    "en_az": "11,0000 TL",
+    "en_cok": "23,0000 TL",
+    "ortalama": "17,1050 TL",
+    "miktar_kg": "16.120 KG"
+  },
+  {
+    "urun": "Koyun Derisi",
+    "en_az": "15,0000 TL",
+    "en_cok": "15,0000 TL",
+    "ortalama": "15,0000 TL",
+    "miktar_kg": "246 Ad"
+  },
+  {
+    "urun": "Kuzu Derisi",
+    "en_az": "50,0000 TL",
+    "en_cok": "50,0000 TL",
+    "ortalama": "50,0000 TL",
+    "miktar_kg": "239 Ad"
+  },
+  {
+    "urun": "Süpürge Teli",
+    "en_az": "100,0000 TL",
+    "en_cok": "151,3000 TL",
+    "ortalama": "125,7815 TL",
+    "miktar_kg": "7.590 KG"
+  },
+  {
+    "urun": "Saman",
+    "en_az": "2,5000 TL",
+    "en_cok": "4,0000 TL",
+    "ortalama": "3,2500 TL",
+    "miktar_kg": "258.269 KG"
+  },
+  {
+    "urun": "Patlıcan",
+    "en_az": "26,0000 TL",
+    "en_cok": "40,0000 TL",
+    "ortalama": "31,6875 TL",
+    "miktar_kg": "1.544 KG"
+  },
+  {
+    "urun": "Hıyar (Salatalık)",
+    "en_az": "20,0000 TL",
+    "en_cok": "25,0000 TL",
+    "ortalama": "22,1520 TL",
+    "miktar_kg": "1.9
