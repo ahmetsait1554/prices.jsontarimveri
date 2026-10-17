@@ -1,226 +1,570 @@
 [
   {
+    "urun": "Buğday Sert",
+    "en_cok": "16,18 TL",
+    "en_az": "16,18 TL",
+    "miktar": "187,961 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "3.041.980,42 TL"
+  },
+  {
+    "urun": "Buğday Kırığı",
+    "en_cok": "17,93 TL",
+    "en_az": "15,10 TL",
+    "miktar": "1.115,848 KG",
+    "satis_muamele": "HTS2",
+    "tutar": "18.192.326,04 TL"
+  },
+  {
+    "urun": "Tohumluk Buğday",
+    "en_cok": "31,98 TL",
+    "en_az": "31,98 TL",
+    "miktar": "7.448,900 KG",
+    "satis_muamele": "HTS1",
+    "tutar": "238.233.245,00 TL"
+  },
+  {
+    "urun": "Mısır",
+    "en_cok": "23,29 TL",
+    "en_az": "14,98 TL",
+    "miktar": "413,780 KG",
+    "satis_muamele": "HTS2",
+    "tutar": "8.937.850,93 TL"
+  },
+  {
+    "urun": "Taze Mısır",
+    "en_cok": "25,17 TL",
+    "en_az": "25,17 TL",
+    "miktar": "8,000 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "201.390,00 TL"
+  },
+  {
+    "urun": "Ayçiçeği Tohumu Küspesi",
+    "en_cok": "15,29 TL",
+    "en_az": "15,29 TL",
+    "miktar": "322,000 KG",
+    "satis_muamele": "HTS1",
+    "tutar": "4.923.978,00 TL"
+  },
+  {
+    "urun": "Tereyağı",
+    "en_cok": "526,98 TL",
+    "en_az": "526,98 TL",
+    "miktar": "787 KG",
+    "satis_muamele": "HTS1",
+    "tutar": "414.732,59 TL"
+  },
+  {
+    "urun": "Kuru Soğan",
+    "en_cok": "21,40 TL",
+    "en_az": "21,40 TL",
+    "miktar": "29,100 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "622.790,00 TL"
+  },
+  {
+    "urun": "Patates",
+    "en_cok": "29,40 TL",
+    "en_az": "29,40 TL",
+    "miktar": "4,520 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "132.888,00 TL"
+  },
+  {
     "urun": "Domates",
-    "en_az": "19,47 TL",
-    "en_cok": "60,00 TL",
-    "ortalama": "27,24 TL",
-    "miktar_kg": "97.775 KG"
+    "en_cok": "98,02 TL",
+    "en_az": "44,22 TL",
+    "miktar": "120,373 KG",
+    "satis_muamele": "HMS3",
+    "tutar": "7.807.601,70 TL"
+  },
+  {
+    "urun": "Domates",
+    "en_cok": "37,51 TL",
+    "en_az": "37,51 TL",
+    "miktar": "5,333 KG",
+    "satis_muamele": "HMSGEÇ1",
+    "tutar": "200.046,96 TL"
+  },
+  {
+    "urun": "Domates",
+    "en_cok": "136,94 TL",
+    "en_az": "67,58 TL",
+    "miktar": "28,736 KG",
+    "satis_muamele": "HTS2",
+    "tutar": "3.570.382,00 TL"
   },
   {
     "urun": "Mantar",
-    "en_az": "115,00 TL",
-    "en_cok": "128,63 TL",
-    "ortalama": "127,20 TL",
-    "miktar_kg": "7.150 KG"
+    "en_cok": "62,32 TL",
+    "en_az": "62,32 TL",
+    "miktar": "59,727 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "3.721.937,80 TL"
   },
   {
     "urun": "Taze Fasülye",
-    "en_az": "50,00 TL",
-    "en_cok": "87,00 TL",
-    "ortalama": "78,57 TL",
-    "miktar_kg": "936 KG"
+    "en_cok": "142,10 TL",
+    "en_az": "142,10 TL",
+    "miktar": "337 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "47.887,70 TL"
+  },
+  {
+    "urun": "Taze Fasülye",
+    "en_cok": "226,73 TL",
+    "en_az": "226,73 TL",
+    "miktar": "735 KG",
+    "satis_muamele": "HMSGEÇ1",
+    "tutar": "166.649,00 TL"
+  },
+  {
+    "urun": "Fesleğen",
+    "en_cok": "13,50 TL",
+    "en_az": "13,50 TL",
+    "miktar": "15,000 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "202.566,00 TL"
+  },
+  {
+    "urun": "Barbunya",
+    "en_cok": "127,40 TL",
+    "en_az": "127,40 TL",
+    "miktar": "143 KG",
+    "satis_muamele": "HMSGEÇ1",
+    "tutar": "18.218,20 TL"
   },
   {
     "urun": "Patlıcan",
-    "en_az": "30,14 TL",
-    "en_cok": "46,15 TL",
-    "ortalama": "45,99 TL",
-    "miktar_kg": "155.710 KG"
+    "en_cok": "29,64 TL",
+    "en_az": "29,64 TL",
+    "miktar": "9,400 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "278.614,00 TL"
   },
   {
     "urun": "Balkabağı",
-    "en_az": "42,88 TL",
-    "en_cok": "42,88 TL",
-    "ortalama": "42,88 TL",
-    "miktar_kg": "2.400 KG"
+    "en_cok": "39,20 TL",
+    "en_az": "39,20 TL",
+    "miktar": "863 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "33.829,60 TL"
+  },
+  {
+    "urun": "Balkabağı",
+    "en_cok": "33,15 TL",
+    "en_az": "33,15 TL",
+    "miktar": "1,753 KG",
+    "satis_muamele": "HMSGEÇ1",
+    "tutar": "58.118,90 TL"
   },
   {
     "urun": "Taze Kabak",
-    "en_az": "10,57 TL",
-    "en_cok": "69,25 TL",
-    "ortalama": "17,14 TL",
-    "miktar_kg": "61.045 KG"
+    "en_cok": "59,50 TL",
+    "en_az": "46,58 TL",
+    "miktar": "24,040 KG",
+    "satis_muamele": "HMS2",
+    "tutar": "1.120.192,50 TL"
+  },
+  {
+    "urun": "Taze Kabak",
+    "en_cok": "63,75 TL",
+    "en_az": "63,75 TL",
+    "miktar": "40 KG",
+    "satis_muamele": "HTS1",
+    "tutar": "2.550,00 TL"
   },
   {
     "urun": "Çarli Biber",
-    "en_az": "50,00 TL",
-    "en_cok": "62,27 TL",
-    "ortalama": "57,01 TL",
-    "miktar_kg": "12.516 KG"
+    "en_cok": "136,05 TL",
+    "en_az": "54,71 TL",
+    "miktar": "70,183 KG",
+    "satis_muamele": "HMS2",
+    "tutar": "5.202.548,54 TL"
+  },
+  {
+    "urun": "Çarli Biber",
+    "en_cok": "114,23 TL",
+    "en_az": "114,23 TL",
+    "miktar": "50,362 KG",
+    "satis_muamele": "HMSGEÇ1",
+    "tutar": "5.752.969,46 TL"
+  },
+  {
+    "urun": "Kapya Biber",
+    "en_cok": "65,33 TL",
+    "en_az": "65,33 TL",
+    "miktar": "57,756 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "3.773.122,18 TL"
   },
   {
     "urun": "Salatalık",
-    "en_az": "24,41 TL",
-    "en_cok": "39,45 TL",
-    "ortalama": "38,58 TL",
-    "miktar_kg": "209.436 KG"
+    "en_cok": "37,10 TL",
+    "en_az": "37,10 TL",
+    "miktar": "80,000 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "2.967.832,00 TL"
+  },
+  {
+    "urun": "Turp",
+    "en_cok": "41,00 TL",
+    "en_az": "41,00 TL",
+    "miktar": "4,000 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "164.012,80 TL"
   },
   {
     "urun": "B.lahana",
-    "en_az": "39,20 TL",
-    "en_cok": "39,20 TL",
-    "ortalama": "39,20 TL",
-    "miktar_kg": "300 KG"
+    "en_cok": "65,49 TL",
+    "en_az": "32,93 TL",
+    "miktar": "4,070 KG",
+    "satis_muamele": "HMS2",
+    "tutar": "168.854,00 TL"
+  },
+  {
+    "urun": "B.lahana",
+    "en_cok": "64,33 TL",
+    "en_az": "64,33 TL",
+    "miktar": "2,020 KG",
+    "satis_muamele": "HMSGEÇ1",
+    "tutar": "129.948,00 TL"
   },
   {
     "urun": "Maydonoz Bağ",
-    "en_az": "16,40 TL",
-    "en_cok": "16,40 TL",
-    "ortalama": "16,40 TL",
-    "miktar_kg": "4.000 BAĞ"
+    "en_cok": "14,67 TL",
+    "en_az": "14,67 TL",
+    "miktar": "40,000 BAĞ",
+    "satis_muamele": "HMS1",
+    "tutar": "586.897,50 TL"
   },
   {
-    "urun": "Karnıbahar",
-    "en_az": "34,30 TL",
-    "en_cok": "34,30 TL",
-    "ortalama": "34,30 TL",
-    "miktar_kg": "400 KG"
+    "urun": "Tere Bağ",
+    "en_cok": "16,17 TL",
+    "en_az": "16,17 TL",
+    "miktar": "35,000 BAĞ",
+    "satis_muamele": "HMS1",
+    "tutar": "565.793,20 TL"
   },
   {
     "urun": "Semiz Otu",
-    "en_az": "12,44 TL",
-    "en_cok": "12,44 TL",
-    "ortalama": "12,44 TL",
-    "miktar_kg": "4.000 KG"
+    "en_cok": "19,86 TL",
+    "en_az": "19,86 TL",
+    "miktar": "35,000 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "695.261,00 TL"
+  },
+  {
+    "urun": "Havuç",
+    "en_cok": "45,50 TL",
+    "en_az": "45,50 TL",
+    "miktar": "1,400 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "63.700,00 TL"
   },
   {
     "urun": "Marul",
-    "en_az": "49,00 TL",
-    "en_cok": "49,00 TL",
-    "ortalama": "49,00 TL",
-    "miktar_kg": "695 KG"
+    "en_cok": "42,77 TL",
+    "en_az": "42,77 TL",
+    "miktar": "40,000 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "1.710.824,22 TL"
+  },
+  {
+    "urun": "Marul",
+    "en_cok": "39,55 TL",
+    "en_az": "39,55 TL",
+    "miktar": "2,400 KG",
+    "satis_muamele": "HMSGEÇ1",
+    "tutar": "94.909,08 TL"
+  },
+  {
+    "urun": "Dere Otu",
+    "en_cok": "15,75 TL",
+    "en_az": "15,75 TL",
+    "miktar": "28,000 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "441.000,00 TL"
   },
   {
     "urun": "Roka Bağ",
-    "en_az": "13,28 TL",
-    "en_cok": "13,28 TL",
-    "ortalama": "13,28 TL",
-    "miktar_kg": "2.400 BAĞ"
+    "en_cok": "14,68 TL",
+    "en_az": "14,68 TL",
+    "miktar": "28,000 BAĞ",
+    "satis_muamele": "HMS1",
+    "tutar": "411.110,00 TL"
   },
   {
     "urun": "Süt",
-    "en_az": "20,79 TL",
-    "en_cok": "26,74 TL",
-    "ortalama": "22,54 TL",
-    "miktar_kg": "41.585 KG"
+    "en_cok": "20,44 TL",
+    "en_az": "20,44 TL",
+    "miktar": "702,477 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "14.358.113,85 TL"
   },
   {
-    "urun": "Limon 1.Sınıf",
-    "en_az": "32,38 TL",
-    "en_cok": "32,38 TL",
-    "ortalama": "32,38 TL",
-    "miktar_kg": "10.600 KG"
+    "urun": "Kaşar Peynir",
+    "en_cok": "312,15 TL",
+    "en_az": "312,15 TL",
+    "miktar": "5,717 KG",
+    "satis_muamele": "HTS1",
+    "tutar": "1.784.539,97 TL"
+  },
+  {
+    "urun": "Beyaz Peynir",
+    "en_cok": "186,50 TL",
+    "en_az": "186,50 TL",
+    "miktar": "2,171 KG",
+    "satis_muamele": "HTS1",
+    "tutar": "404.898,68 TL"
+  },
+  {
+    "urun": "Ay Çekirdeği",
+    "en_cok": "97,63 TL",
+    "en_az": "97,63 TL",
+    "miktar": "43,000 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "4.198.000,00 TL"
   },
   {
     "urun": "Limon 2.Sınıf",
-    "en_az": "25,00 TL",
-    "en_cok": "25,00 TL",
-    "ortalama": "25,00 TL",
-    "miktar_kg": "13.100 KG"
+    "en_cok": "56,91 TL",
+    "en_az": "56,91 TL",
+    "miktar": "7,069 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "402.309,60 TL"
   },
   {
-    "urun": "Mandalin",
-    "en_az": "26,13 TL",
-    "en_cok": "26,13 TL",
-    "ortalama": "26,13 TL",
-    "miktar_kg": "3.000 KG"
+    "urun": "Elma",
+    "en_cok": "63,36 TL",
+    "en_az": "63,36 TL",
+    "miktar": "14,500 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "918.750,00 TL"
+  },
+  {
+    "urun": "Şeftali",
+    "en_cok": "58,80 TL",
+    "en_az": "58,80 TL",
+    "miktar": "2,900 KG",
+    "satis_muamele": "HMSGEÇ1",
+    "tutar": "170.520,00 TL"
+  },
+  {
+    "urun": "Nar",
+    "en_cok": "63,70 TL",
+    "en_az": "63,70 TL",
+    "miktar": "8,330 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "530.621,00 TL"
+  },
+  {
+    "urun": "Nar",
+    "en_cok": "63,70 TL",
+    "en_az": "63,70 TL",
+    "miktar": "4,558 KG",
+    "satis_muamele": "HMSGEÇ1",
+    "tutar": "290.344,60 TL"
   },
   {
     "urun": "Yaş Üzüm",
-    "en_az": "37,19 TL",
-    "en_cok": "68,64 TL",
-    "ortalama": "40,49 TL",
-    "miktar_kg": "257.700 KG"
+    "en_cok": "97,70 TL",
+    "en_az": "97,70 TL",
+    "miktar": "60,000 KG",
+    "satis_muamele": "HMSGEÇ1",
+    "tutar": "5.861.815,46 TL"
   },
   {
     "urun": "Kavun",
-    "en_az": "10,00 TL",
-    "en_cok": "15,00 TL",
-    "ortalama": "11,10 TL",
-    "miktar_kg": "86.435 KG"
+    "en_cok": "53,90 TL",
+    "en_az": "53,90 TL",
+    "miktar": "400 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "21.560,00 TL"
+  },
+  {
+    "urun": "Kavun",
+    "en_cok": "61,56 TL",
+    "en_az": "61,56 TL",
+    "miktar": "1,950 KG",
+    "satis_muamele": "HMSGEÇ1",
+    "tutar": "120.050,00 TL"
   },
   {
     "urun": "Karpuz",
-    "en_az": "6,50 TL",
-    "en_cok": "7,27 TL",
-    "ortalama": "6,80 TL",
-    "miktar_kg": "65.240 KG"
-  },
-  {
-    "urun": "Elma Döküntü",
-    "en_az": "39,20 TL",
-    "en_cok": "53,13 TL",
-    "ortalama": "43,44 TL",
-    "miktar_kg": "19.700 KG"
+    "en_cok": "18,86 TL",
+    "en_az": "18,86 TL",
+    "miktar": "8,000 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "150.920,00 TL"
   },
   {
     "urun": "Portakal Döküntü",
-    "en_az": "35,00 TL",
-    "en_cok": "35,00 TL",
-    "ortalama": "35,00 TL",
-    "miktar_kg": "24.200 KG"
+    "en_cok": "28,42 TL",
+    "en_az": "6,50 TL",
+    "miktar": "245,570 KG",
+    "satis_muamele": "HMS3",
+    "tutar": "6.447.255,00 TL"
+  },
+  {
+    "urun": "Portakal Döküntü",
+    "en_cok": "10,00 TL",
+    "en_az": "10,00 TL",
+    "miktar": "23,570 KG",
+    "satis_muamele": "HTS1",
+    "tutar": "235.700,00 TL"
   },
   {
     "urun": "Şeftali Döküntü",
-    "en_az": "6,78 TL",
-    "en_cok": "39,20 TL",
-    "ortalama": "7,89 TL",
-    "miktar_kg": "959.045 KG"
+    "en_cok": "35,84 TL",
+    "en_az": "35,84 TL",
+    "miktar": "34,040 KG",
+    "satis_muamele": "HMSGEÇ1",
+    "tutar": "1.219.857,82 TL"
   },
   {
     "urun": "Kayısı Döküntü",
-    "en_az": "68,88 TL",
-    "en_cok": "68,88 TL",
-    "ortalama": "68,88 TL",
-    "miktar_kg": "4.025 KG"
-  },
-  {
-    "urun": "Erik",
-    "en_az": "41,23 TL",
-    "en_cok": "41,23 TL",
-    "ortalama": "41,23 TL",
-    "miktar_kg": "8.100 KG"
+    "en_cok": "32,34 TL",
+    "en_az": "32,34 TL",
+    "miktar": "6,750 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "218.295,00 TL"
   },
   {
     "urun": "Muz",
-    "en_az": "87,31 TL",
-    "en_cok": "88,74 TL",
-    "ortalama": "88,23 TL",
-    "miktar_kg": "38.000 KG"
+    "en_cok": "97,93 TL",
+    "en_az": "87,21 TL",
+    "miktar": "113,800 KG",
+    "satis_muamele": "HMS5",
+    "tutar": "10.222.954,18 TL"
+  },
+  {
+    "urun": "Muz",
+    "en_cok": "92,64 TL",
+    "en_az": "92,64 TL",
+    "miktar": "9,000 KG",
+    "satis_muamele": "HMSGEÇ1",
+    "tutar": "833.754,60 TL"
+  },
+  {
+    "urun": "İncir",
+    "en_cok": "141,80 TL",
+    "en_az": "141,80 TL",
+    "miktar": "1,800 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "255.241,00 TL"
   },
   {
     "urun": "Armut Döküntü",
-    "en_az": "48,59 TL",
-    "en_cok": "48,59 TL",
-    "ortalama": "48,59 TL",
-    "miktar_kg": "30.885 KG"
+    "en_cok": "29,40 TL",
+    "en_az": "29,40 TL",
+    "miktar": "6,500 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "191.100,00 TL"
   },
   {
-    "urun": "Erik Döküntü",
-    "en_az": "25,95 TL",
-    "en_cok": "25,95 TL",
-    "ortalama": "25,95 TL",
-    "miktar_kg": "5.400 KG"
+    "urun": "Armut Döküntü",
+    "en_cok": "55,71 TL",
+    "en_az": "55,71 TL",
+    "miktar": "4,230 KG",
+    "satis_muamele": "HMSGEÇ1",
+    "tutar": "235.671,43 TL"
+  },
+  {
+    "urun": "Kiraz Döküntü",
+    "en_cok": "83,08 TL",
+    "en_az": "34,30 TL",
+    "miktar": "12,360 KG",
+    "satis_muamele": "HMS2",
+    "tutar": "807.324,00 TL"
+  },
+  {
+    "urun": "Kekik Otu",
+    "en_cok": "90,57 TL",
+    "en_az": "90,57 TL",
+    "miktar": "39,055 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "3.537.025,00 TL"
+  },
+  {
+    "urun": "Kekik Otu",
+    "en_cok": "140,00 TL",
+    "en_az": "140,00 TL",
+    "miktar": "9,897 KG",
+    "satis_muamele": "HTS1",
+    "tutar": "1.385.601,00 TL"
+  },
+  {
+    "urun": "Damızlık Dana",
+    "en_cok": "137.525,85 TL",
+    "en_az": "137.525,85 TL",
+    "miktar": "2 AD",
+    "satis_muamele": "HMS1",
+    "tutar": "275.051,70 TL"
+  },
+  {
+    "urun": "Damızlık Kuzu",
+    "en_cok": "41.256,40 TL",
+    "en_az": "39.600,00 TL",
+    "miktar": "48 AD",
+    "satis_muamele": "HMS2",
+    "tutar": "1.950.492,06 TL"
   },
   {
     "urun": "Dana Eti",
-    "en_az": "602,90 TL",
-    "en_cok": "850,00 TL",
-    "ortalama": "618,34 TL",
-    "miktar_kg": "24.114 KG"
+    "en_cok": "593,40 TL",
+    "en_az": "593,40 TL",
+    "miktar": "5,029 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "2.984.208,60 TL"
+  },
+  {
+    "urun": "Dana Eti",
+    "en_cok": "585,01 TL",
+    "en_az": "570,87 TL",
+    "miktar": "63,808 KG",
+    "satis_muamele": "HTS2",
+    "tutar": "36.765.302,30 TL"
+  },
+  {
+    "urun": "Koyun Eti",
+    "en_cok": "669,76 TL",
+    "en_az": "669,76 TL",
+    "miktar": "8,847 KG",
+    "satis_muamele": "HMS1",
+    "tutar": "5.925.343,05 TL"
   },
   {
     "urun": "Kuzu Eti",
-    "en_az": "699,56 TL",
-    "en_cok": "699,56 TL",
-    "ortalama": "699,56 TL",
-    "miktar_kg": "20.865 KG"
+    "en_cok": "594,43 TL",
+    "en_az": "542,23 TL",
+    "miktar": "75,607 KG",
+    "satis_muamele": "HMS2",
+    "tutar": "41.420.807,17 TL"
+  },
+  {
+    "urun": "Kuzu Eti",
+    "en_cok": "704,31 TL",
+    "en_az": "704,31 TL",
+    "miktar": "12,525 KG",
+    "satis_muamele": "HTS1",
+    "tutar": "8.821.520,50 TL"
   },
   {
     "urun": "Tavuk Eti",
-    "en_az": "150,00 TL",
-    "en_cok": "203,22 TL",
-    "ortalama": "154,84 TL",
-    "miktar_kg": "1.101 KG"
+    "en_cok": "129,48 TL",
+    "en_az": "108,44 TL",
+    "miktar": "20,914 KG",
+    "satis_muamele": "HTS2",
+    "tutar": "2.684.025,12 TL"
+  },
+  {
+    "urun": "Hindi Eti",
+    "en_cok": "323,11 TL",
+    "en_az": "212,76 TL",
+    "miktar": "8,624 KG",
+    "satis_muamele": "HTS2",
+    "tutar": "2.513.141,05 TL"
   }
 ]
