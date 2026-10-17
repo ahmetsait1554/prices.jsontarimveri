@@ -1,128 +1,308 @@
 [
   {
-    "urun": "Buğday",
-    "en_az": "14,79 TL",
-    "en_cok": "14,79 TL",
-    "ortalama": "14,79 TL",
-    "miktar_kg": "1.244.809 KG"
+    "urun": "ARPA",
+    "en_cok": "11.80 TL",
+    "en_az": "10.86 TL",
+    "ortalama": "11.28 TL",
+    "miktar": "99360 Kilogram",
+    "tutar": "1,120,793.61 TL",
+    "satis_muamele": "Müstahsil (Muhtahsil)"
   },
   {
-    "urun": "Nohut",
-    "en_az": "32,80 TL",
-    "en_cok": "32,80 TL",
-    "ortalama": "32,80 TL",
-    "miktar_kg": "28.580 KG"
+    "urun": "ARPA",
+    "en_cok": "14.70 TL",
+    "en_az": "14.50 TL",
+    "ortalama": "14.60 TL",
+    "miktar": "59880 Kilogram",
+    "tutar": "874,292.00 TL",
+    "satis_muamele": "Satım (Satım)"
   },
   {
-    "urun": "Ayçekirdeği",
-    "en_az": "72,00 TL",
-    "en_cok": "90,00 TL",
-    "ortalama": "78,43 TL",
-    "miktar_kg": "108.500 KG"
+    "urun": "ÇAVDAR",
+    "en_cok": "11.50 TL",
+    "en_az": "11.50 TL",
+    "ortalama": "11.50 TL",
+    "miktar": "74180 Kilogram",
+    "tutar": "853,070.00 TL",
+    "satis_muamele": "Müstahsil (Muhtahsil)"
   },
   {
-    "urun": "Ayçiçeği Yağlık",
-    "en_az": "35,70 TL",
-    "en_cok": "35,70 TL",
-    "ortalama": "35,70 TL",
-    "miktar_kg": "178.110 KG"
+    "urun": "ÇAVDAR",
+    "en_cok": "15.44 TL",
+    "en_az": "15.44 TL",
+    "ortalama": "15.44 TL",
+    "miktar": "32800 Kilogram",
+    "tutar": "506,333.60 TL",
+    "satis_muamele": "Satım (Satım)"
   },
   {
-    "urun": "Süzme Bal",
-    "en_az": "500,00 TL",
-    "en_cok": "500,00 TL",
-    "ortalama": "500,00 TL",
-    "miktar_kg": "800 KG"
+    "urun": "MISIR",
+    "en_cok": "15.50 TL",
+    "en_az": "13.78 TL",
+    "ortalama": "14.89 TL",
+    "miktar": "1734308 Kilogram",
+    "tutar": "25,824,918.65 TL",
+    "satis_muamele": "Müstahsil (Muhtahsil)"
   },
   {
-    "urun": "İnek Sütü",
-    "en_az": "19,00 TL",
-    "en_cok": "28,00 TL",
-    "ortalama": "19,57 TL",
-    "miktar_kg": "2.007.172,37 LİTRE"
+    "urun": "BUĞDAY",
+    "en_cok": "16.50 TL",
+    "en_az": "11.00 TL",
+    "ortalama": "13.87 TL",
+    "miktar": "728120 Kilogram",
+    "tutar": "10,095,729.19 TL",
+    "satis_muamele": "Müstahsil (Muhtahsil)"
   },
   {
-    "urun": "Kabak",
-    "en_az": "12,00 TL",
-    "en_cok": "40,00 TL",
-    "ortalama": "31,88 TL",
-    "miktar_kg": "3.354,8 KG"
+    "urun": "BUĞDAY",
+    "en_cok": "15.50 TL",
+    "en_az": "15.00 TL",
+    "ortalama": "15.21 TL",
+    "miktar": "179570 Kilogram",
+    "tutar": "2,731,845.00 TL",
+    "satis_muamele": "Satım (Satım)"
   },
   {
-    "urun": "Sarımsak",
-    "en_az": "100,00 TL",
-    "en_cok": "120,00 TL",
-    "ortalama": "104,41 TL",
-    "miktar_kg": "1.572,1 KG"
+    "urun": "K.FASULYE ŞEKER",
+    "en_cok": "67.00 TL",
+    "en_az": "67.00 TL",
+    "ortalama": "67.00 TL",
+    "miktar": "5980 Kilogram",
+    "tutar": "400,660.00 TL",
+    "satis_muamele": "Müstahsil (Muhtahsil)"
   },
   {
-    "urun": "Kabak Çekirdeği Fos",
-    "en_az": "37,00 TL",
-    "en_cok": "37,00 TL",
-    "ortalama": "37,00 TL",
-    "miktar_kg": "5.800 KG"
+    "urun": "K.FASULYE NATÜREL",
+    "en_cok": "56.00 TL",
+    "en_az": "56.00 TL",
+    "ortalama": "56.00 TL",
+    "miktar": "4980 Kilogram",
+    "tutar": "278,880.00 TL",
+    "satis_muamele": "Müstahsil (Muhtahsil)"
   },
   {
-    "urun": "Manda",
-    "en_az": "115.000,00 TL",
-    "en_cok": "115.000,00 TL",
-    "ortalama": "115.000,00 TL",
-    "miktar_kg": "50 Adet"
+    "urun": "NOHUT",
+    "en_cok": "36.37 TL",
+    "en_az": "26.27 TL",
+    "ortalama": "31.96 TL",
+    "miktar": "129480 Kilogram",
+    "tutar": "4,137,906.87 TL",
+    "satis_muamele": "Müstahsil (Muhtahsil)"
   },
   {
-    "urun": "Domates Yerli",
-    "en_az": "15,00 TL",
-    "en_cok": "35,00 TL",
-    "ortalama": "27,22 TL",
-    "miktar_kg": "2.650,6 KG"
+    "urun": "NOHUT",
+    "en_cok": "34.30 TL",
+    "en_az": "33.00 TL",
+    "ortalama": "33.66 TL",
+    "miktar": "68980 Kilogram",
+    "tutar": "2,321,554.00 TL",
+    "satis_muamele": "Satım (Satım)"
   },
   {
-    "urun": "Patlıcan",
-    "en_az": "34,90 TL",
-    "en_cok": "62,00 TL",
-    "ortalama": "47,56 TL",
-    "miktar_kg": "4.193,4 KG"
+    "urun": "NOHUT",
+    "en_cok": "34.75 TL",
+    "en_az": "34.75 TL",
+    "ortalama": "34.75 TL",
+    "miktar": "33220 Kilogram",
+    "tutar": "1,154,395.00 TL",
+    "satis_muamele": "Satım (Satım)"
   },
   {
-    "urun": "Bal Kabağı",
-    "en_az": "32,00 TL",
-    "en_cok": "35,00 TL",
-    "ortalama": "33,03 TL",
-    "miktar_kg": "8.187,7 KG"
+    "urun": "BURÇAK",
+    "en_cok": "60.00 TL",
+    "en_az": "60.00 TL",
+    "ortalama": "60.00 TL",
+    "miktar": "81.2 Kilogram",
+    "tutar": "4,872.00 TL",
+    "satis_muamele": "Müstahsil (Muhtahsil)"
   },
   {
-    "urun": "Elma",
-    "en_az": "10,00 TL",
-    "en_cok": "70,00 TL",
-    "ortalama": "38,52 TL",
-    "miktar_kg": "9.336,8 KG"
+    "urun": "AYÇEKİRDEĞİ",
+    "en_cok": "64.08 TL",
+    "en_az": "64.03 TL",
+    "ortalama": "64.05 TL",
+    "miktar": "53240 Kilogram",
+    "tutar": "3,409,989.01 TL",
+    "satis_muamele": "Müstahsil (Muhtahsil)"
   },
   {
-    "urun": "Limon",
-    "en_az": "25,00 TL",
-    "en_cok": "80,00 TL",
-    "ortalama": "74,41 TL",
-    "miktar_kg": "5.156,4 KG"
+    "urun": "AYÇEKİRDEĞİ",
+    "en_cok": "65.00 TL",
+    "en_az": "65.00 TL",
+    "ortalama": "65.00 TL",
+    "miktar": "53240 Kilogram",
+    "tutar": "3,460,600.00 TL",
+    "satis_muamele": "Satım (Satım)"
   },
   {
-    "urun": "Yaş Üzüm",
-    "en_az": "10,00 TL",
-    "en_cok": "60,00 TL",
-    "ortalama": "33,87 TL",
-    "miktar_kg": "21.860,1 KG"
+    "urun": "ET ( KARKAS )",
+    "en_cok": "570.00 TL",
+    "en_az": "570.00 TL",
+    "ortalama": "570.00 TL",
+    "miktar": "1607 Kilogram",
+    "tutar": "915,990.00 TL",
+    "satis_muamele": "Satım (Satım)"
   },
   {
-    "urun": "Çilek",
-    "en_az": "100,00 TL",
-    "en_cok": "250,00 TL",
-    "ortalama": "179,17 TL",
-    "miktar_kg": "3.721,6 KG"
+    "urun": "DANA ETİ ŞARTA TABİ",
+    "en_cok": "325.00 TL",
+    "en_az": "325.00 TL",
+    "ortalama": "325.00 TL",
+    "miktar": "175 Kilogram",
+    "tutar": "56,875.00 TL",
+    "satis_muamele": "Satım (Satım)"
   },
   {
-    "urun": "Erik",
-    "en_az": "20,00 TL",
-    "en_cok": "60,00 TL",
-    "ortalama": "39,01 TL",
-    "miktar_kg": "1.863 KG"
+    "urun": "KAVURMA",
+    "en_cok": "1,500.00 TL",
+    "en_az": "1,488.89 TL",
+    "ortalama": "1,496.23 TL",
+    "miktar": "1.59 Kilogram",
+    "tutar": "2,379.00 TL",
+    "satis_muamele": "Satım (Satım)"
+  },
+  {
+    "urun": "PASTIRMA",
+    "en_cok": "2,359.69 TL",
+    "en_az": "2,331.20 TL",
+    "ortalama": "2,350.00 TL",
+    "miktar": "3.26 Kilogram",
+    "tutar": "7,661.00 TL",
+    "satis_muamele": "Satım (Satım)"
+  },
+  {
+    "urun": "SUCUK",
+    "en_cok": "850.00 TL",
+    "en_az": "846.85 TL",
+    "ortalama": "848.69 TL",
+    "miktar": "2.59 Kilogram",
+    "tutar": "2,198.10 TL",
+    "satis_muamele": "Satım (Satım)"
+  },
+  {
+    "urun": "İNEK SÜTÜ",
+    "en_cok": "30.00 TL",
+    "en_az": "25.00 TL",
+    "ortalama": "27.47 TL",
+    "miktar": "182219 Litre",
+    "tutar": "5,006,033.50 TL",
+    "satis_muamele": "Müstahsil (Muhtahsil)"
+  },
+  {
+    "urun": "SOĞAN KURU",
+    "en_cok": "20.00 TL",
+    "en_az": "20.00 TL",
+    "ortalama": "20.00 TL",
+    "miktar": "2644.69 Kilogram",
+    "tutar": "52,893.80 TL",
+    "satis_muamele": "Satım (Satım)"
+  },
+  {
+    "urun": "PATATES YENİ ÜRÜN",
+    "en_cok": "19.40 TL",
+    "en_az": "19.40 TL",
+    "ortalama": "19.40 TL",
+    "miktar": "4902 Kilogram",
+    "tutar": "95,098.80 TL",
+    "satis_muamele": "Satım (Satım)"
+  },
+  {
+    "urun": "SARIMSAK",
+    "en_cok": "145.00 TL",
+    "en_az": "145.00 TL",
+    "ortalama": "145.00 TL",
+    "miktar": "119 Kilogram",
+    "tutar": "17,255.00 TL",
+    "satis_muamele": "Satım (Satım)"
+  },
+  {
+    "urun": "MISIR SİLAJI",
+    "en_cok": "3.50 TL",
+    "en_az": "3.50 TL",
+    "ortalama": "3.50 TL",
+    "miktar": "151589 Kilogram",
+    "tutar": "530,561.50 TL",
+    "satis_muamele": "Müstahsil (Muhtahsil)"
+  },
+  {
+    "urun": "İNEK",
+    "en_cok": "202,020.20 TL",
+    "en_az": "202,020.20 TL",
+    "ortalama": "202,020.20 TL",
+    "miktar": "1 Adet",
+    "tutar": "202,020.20 TL",
+    "satis_muamele": "Müstahsil (Muhtahsil)"
+  },
+  {
+    "urun": "BİBER TOZ KIRMIZI",
+    "en_cok": "210.00 TL",
+    "en_az": "210.00 TL",
+    "ortalama": "210.00 TL",
+    "miktar": "1140 Kilogram",
+    "tutar": "239,400.00 TL",
+    "satis_muamele": "Müstahsil (Muhtahsil)"
+  },
+  {
+    "urun": "KİMYON NATÜREL",
+    "en_cok": "220.00 TL",
+    "en_az": "125.00 TL",
+    "ortalama": "137.45 TL",
+    "miktar": "22056 Kilogram",
+    "tutar": "3,031,550.00 TL",
+    "satis_muamele": "Müstahsil (Muhtahsil)"
+  },
+  {
+    "urun": "MAYDANOZ (BAĞ)",
+    "en_cok": "19.00 TL",
+    "en_az": "19.00 TL",
+    "ortalama": "19.00 TL",
+    "miktar": "934 Kilogram",
+    "tutar": "17,746.00 TL",
+    "satis_muamele": "Satım (Satım)"
+  },
+  {
+    "urun": "KAVUN",
+    "en_cok": "25.00 TL",
+    "en_az": "14.00 TL",
+    "ortalama": "20.69 TL",
+    "miktar": "5275 Kilogram",
+    "tutar": "109,138.00 TL",
+    "satis_muamele": "Alım (Alım)"
+  },
+  {
+    "urun": "KARPUZ",
+    "en_cok": "17.00 TL",
+    "en_az": "9.00 TL",
+    "ortalama": "15.53 TL",
+    "miktar": "4700 Kilogram",
+    "tutar": "72,972.00 TL",
+    "satis_muamele": "Alım (Alım)"
+  },
+  {
+    "urun": "SAMAN KG",
+    "en_cok": "4.00 TL",
+    "en_az": "3.50 TL",
+    "ortalama": "3.89 TL",
+    "miktar": "89359.55 Kilogram",
+    "tutar": "347,962.95 TL",
+    "satis_muamele": "Müstahsil (Muhtahsil)"
+  },
+  {
+    "urun": "ÇEMEN TANE",
+    "en_cok": "85.00 TL",
+    "en_az": "80.00 TL",
+    "ortalama": "84.24 TL",
+    "miktar": "6809 Kilogram",
+    "tutar": "573,610.00 TL",
+    "satis_muamele": "Müstahsil (Muhtahsil)"
+  },
+  {
+    "urun": "MANTI",
+    "en_cok": "600.00 TL",
+    "en_az": "300.00 TL",
+    "ortalama": "480.00 TL",
+    "miktar": "2.5 Kilogram",
+    "tutar": "1,200.00 TL",
+    "satis_muamele": "Satım (Satım)"
   }
 ]
