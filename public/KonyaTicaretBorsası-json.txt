@@ -1,93 +1,348 @@
 [
   {
-    "urun": "Makarnalık Buğday",
-    "en_az": "15,0010 TL",
+    "urun": "Makarnalık Buğday (Toplam)",
+    "en_az": "16,7000 TL",
+    "en_cok": "20,9940 TL",
+    "ortalama": "17,9319 TL",
+    "miktar": "360.000 KG"
+  },
+  {
+    "urun": "2.GRUP MAKARNALIK BUĞDAYLAR",
+    "en_az": "18,1940 TL",
+    "en_cok": "18,5010 TL",
+    "ortalama": "18,3556 TL",
+    "miktar": "57.000 KG"
+  },
+  {
+    "urun": "3.GRUP MAKARNALIK BUĞDAYLAR",
+    "en_az": "18,2700 TL",
+    "en_cok": "18,2700 TL",
+    "ortalama": "18,2700 TL",
+    "miktar": "25.000 KG"
+  },
+  {
+    "urun": "DÜŞÜK VASIFLI MAKARNALIK BUĞDAYLAR",
+    "en_az": "16,8970 TL",
+    "en_cok": "20,9940 TL",
+    "ortalama": "17,9322 TL",
+    "miktar": "219.000 KG"
+  },
+  {
+    "urun": "STANDART DIŞI MAKARNALIK BUĞDAYLAR",
+    "en_az": "16,7000 TL",
+    "en_cok": "18,3010 TL",
+    "ortalama": "17,3784 TL",
+    "miktar": "59.000 KG"
+  },
+  {
+    "urun": "Beyaz Sert Buğday (Toplam)",
+    "en_az": "21,3520 TL",
+    "en_cok": "21,6100 TL",
+    "ortalama": "21,4810 TL",
+    "miktar": "70.000 KG"
+  },
+  {
+    "urun": "1.GRUP BEYAZ SERT EKMEKLİK BUĞDAYLAR",
+    "en_az": "21,3520 TL",
+    "en_cok": "21,6100 TL",
+    "ortalama": "21,4810 TL",
+    "miktar": "70.000 KG"
+  },
+  {
+    "urun": "Kırmızı Sert Buğday (Toplam)",
+    "en_az": "16,7600 TL",
+    "en_cok": "21,1010 TL",
+    "ortalama": "18,6786 TL",
+    "miktar": "561.500 KG"
+  },
+  {
+    "urun": "1.GRUP KIRMIZI SERT EKMEKLİK BUĞDAYLAR",
+    "en_az": "17,8010 TL",
+    "en_cok": "20,5010 TL",
+    "ortalama": "19,3285 TL",
+    "miktar": "133.000 KG"
+  },
+  {
+    "urun": "2.GRUP KIRMIZI SERT EKMEKLİK BUĞDAYLAR",
+    "en_az": "17,9010 TL",
+    "en_cok": "19,9880 TL",
+    "ortalama": "18,8526 TL",
+    "miktar": "162.000 KG"
+  },
+  {
+    "urun": "3.GRUP KIRMIZI SERT EKMEKLİK BUĞDAYLAR",
+    "en_az": "16,7600 TL",
+    "en_cok": "17,1010 TL",
+    "ortalama": "16,9305 TL",
+    "miktar": "54.000 KG"
+  },
+  {
+    "urun": "DÜŞÜK VASIFLI KIRMIZI SERT EKMEKLİK BUĞDAYLAR",
+    "en_az": "16,9700 TL",
+    "en_cok": "21,1010 TL",
+    "ortalama": "18,7469 TL",
+    "miktar": "148.500 KG"
+  },
+  {
+    "urun": "STANDART DIŞI KIRMIZI SERT EKMEKLİK BUĞDAYLAR",
+    "en_az": "17,2010 TL",
+    "en_cok": "19,5000 TL",
+    "ortalama": "18,2037 TL",
+    "miktar": "64.000 KG"
+  },
+  {
+    "urun": "Diğer Beyaz Buğday (Toplam)",
+    "en_az": "16,7030 TL",
     "en_cok": "18,0080 TL",
-    "ortalama": "16,2284 TL",
-    "miktar_kg": "761.000 KG"
+    "ortalama": "17,0352 TL",
+    "miktar": "31.000 KG"
   },
   {
-    "urun": "Beyaz Sert Buğday",
-    "en_az": "18,0870 TL",
-    "en_cok": "19,9900 TL",
-    "ortalama": "19,1584 TL",
-    "miktar_kg": "342.000 KG"
+    "urun": "2.GRUP DİĞER BEYAZ EKMEKLİK BUĞDAYLAR",
+    "en_az": "17,5010 TL",
+    "en_cok": "18,0080 TL",
+    "ortalama": "17,6911 TL",
+    "miktar": "8.000 KG"
   },
   {
-    "urun": "Kırmızı Sert Buğday",
-    "en_az": "15,4010 TL",
-    "en_cok": "19,5760 TL",
-    "ortalama": "18,0471 TL",
-    "miktar_kg": "1.722.000 KG"
+    "urun": "DÜŞÜK VASIFLI DİĞER BEYAZ EKMEKLİK BUĞDAYLAR",
+    "en_az": "17,0020 TL",
+    "en_cok": "17,0020 TL",
+    "ortalama": "17,0020 TL",
+    "miktar": "8.000 KG"
   },
   {
-    "urun": "Diğer Beyaz Buğday",
-    "en_az": "14,6010 TL",
-    "en_cok": "15,7060 TL",
-    "ortalama": "15,3611 TL",
-    "miktar_kg": "158.000 KG"
+    "urun": "STANDART DIŞI DİĞER BEYAZ EKMEKLİK BUĞDAYLAR",
+    "en_az": "16,7030 TL",
+    "en_cok": "16,7030 TL",
+    "ortalama": "16,7030 TL",
+    "miktar": "15.000 KG"
   },
   {
-    "urun": "Diğer Kırmızı Buğday",
-    "en_az": "13,5010 TL",
+    "urun": "Diğer Kırmızı Buğday (Toplam)",
+    "en_az": "15,8000 TL",
+    "en_cok": "19,5010 TL",
+    "ortalama": "17,8250 TL",
+    "miktar": "855.000 KG"
+  },
+  {
+    "urun": "1.GRUP DİĞER KIRMIZI EKMEKLİK BUĞDAYLAR",
+    "en_az": "19,5010 TL",
+    "en_cok": "19,5010 TL",
+    "ortalama": "19,5010 TL",
+    "miktar": "40.000 KG"
+  },
+  {
+    "urun": "2.GRUP DİĞER KIRMIZI EKMEKLİK BUĞDAYLAR",
+    "en_az": "18,0000 TL",
+    "en_cok": "18,8540 TL",
+    "ortalama": "18,4395 TL",
+    "miktar": "257.000 KG"
+  },
+  {
+    "urun": "3.GRUP DİĞER KIRMIZI EKMEKLİK BUĞDAYLAR",
+    "en_az": "16,7010 TL",
+    "en_cok": "18,1000 TL",
+    "ortalama": "17,8833 TL",
+    "miktar": "35.500 KG"
+  },
+  {
+    "urun": "DÜŞÜK VASIFLI DİĞER KIRMIZI EKMEKLİK BUĞDAYLAR",
+    "en_az": "16,7010 TL",
     "en_cok": "18,8010 TL",
-    "ortalama": "16,4179 TL",
-    "miktar_kg": "875.000 KG"
+    "ortalama": "17,7442 TL",
+    "miktar": "380.500 KG"
   },
   {
-    "urun": "Arpa",
-    "en_az": "13,2180 TL",
-    "en_cok": "13,9270 TL",
-    "ortalama": "13,7268 TL",
-    "miktar_kg": "437.500 KG"
+    "urun": "STANDART DIŞI DİĞER KIRMIZI EKMEKLİK BUĞDAY",
+    "en_az": "15,8000 TL",
+    "en_cok": "16,8010 TL",
+    "ortalama": "16,4426 TL",
+    "miktar": "142.000 KG"
   },
   {
-    "urun": "Mısır",
-    "en_az": "15,2530 TL",
-    "en_cok": "17,0620 TL",
-    "ortalama": "16,4216 TL",
-    "miktar_kg": "130.000 KG"
-  },
-  {
-    "urun": "Yulaf",
-    "en_az": "16,3460 TL",
-    "en_cok": "16,3460 TL",
-    "ortalama": "16,3460 TL",
-    "miktar_kg": "12.000 KG"
-  },
-  {
-    "urun": "Tritikale",
+    "urun": "Arpa (Toplam)",
     "en_az": "14,2010 TL",
-    "en_cok": "14,2010 TL",
-    "ortalama": "14,2010 TL",
-    "miktar_kg": "7.500 KG"
+    "en_cok": "15,3970 TL",
+    "ortalama": "15,2456 TL",
+    "miktar": "813.000 KG"
+  },
+  {
+    "urun": "1.GRUP ARPA",
+    "en_az": "15,2020 TL",
+    "en_cok": "15,3970 TL",
+    "ortalama": "15,2768 TL",
+    "miktar": "595.000 KG"
+  },
+  {
+    "urun": "2.GRUP ARPA",
+    "en_az": "15,1420 TL",
+    "en_cok": "15,3010 TL",
+    "ortalama": "15,2821 TL",
+    "miktar": "145.000 KG"
+  },
+  {
+    "urun": "STANDART DIŞI ARPA",
+    "en_az": "14,2010 TL",
+    "en_cok": "15,2110 TL",
+    "ortalama": "14,9190 TL",
+    "miktar": "73.000 KG"
+  },
+  {
+    "urun": "Mısır (Toplam)",
+    "en_az": "14,2500 TL",
+    "en_cok": "16,5010 TL",
+    "ortalama": "15,5259 TL",
+    "miktar": "425.880 KG"
   },
   {
     "urun": "Nohut",
-    "en_az": "32,0010 TL",
-    "en_cok": "33,0050 TL",
-    "ortalama": "32,6855 TL",
-    "miktar_kg": "11.000 KG"
+    "en_az": "30,5010 TL",
+    "en_cok": "30,5010 TL",
+    "ortalama": "30,5010 TL",
+    "miktar": "3.000 KG"
   },
   {
     "urun": "Kuru Fasulye",
-    "en_az": "53,0000 TL",
-    "en_cok": "67,5010 TL",
-    "ortalama": "63,9149 TL",
-    "miktar_kg": "55.580 KG"
+    "en_az": "62,1000 TL",
+    "en_cok": "62,1000 TL",
+    "ortalama": "62,1000 TL",
+    "miktar": "8.000 KG"
   },
   {
-    "urun": "Çavdar",
-    "en_az": "13,4000 TL",
-    "en_cok": "13,4000 TL",
-    "ortalama": "13,4000 TL",
-    "miktar_kg": "30.000 KG"
+    "urun": "Makarnalık Buğday (H.M.S.)",
+    "en_az": "13,5000 TL",
+    "en_cok": "19,5000 TL",
+    "ortalama": "17,1146 TL",
+    "miktar": "373.250 KG",
+    "satis_muamele": "H.M.S."
   },
   {
-    "urun": "Mercimek",
-    "en_az": "21,0010 TL",
-    "en_cok": "21,0010 TL",
-    "ortalama": "21,0010 TL",
-    "miktar_kg": "11.170 KG"
+    "urun": "Makarnalık Buğday (H.T.S.)",
+    "en_az": "16,0000 TL",
+    "en_cok": "20,5000 TL",
+    "ortalama": "17,3476 TL",
+    "miktar": "566.310 KG",
+    "satis_muamele": "H.T.S."
+  },
+  {
+    "urun": "Beyaz Sert Buğday (H.M.S.)",
+    "en_az": "21,4500 TL",
+    "en_cok": "21,4500 TL",
+    "ortalama": "21,4500 TL",
+    "miktar": "107.320 KG",
+    "satis_muamele": "H.M.S."
+  },
+  {
+    "urun": "Kırmızı Sert Buğday (H.M.S.)",
+    "en_az": "13,2500 TL",
+    "en_cok": "21,4500 TL",
+    "ortalama": "20,1276 TL",
+    "miktar": "152.900 KG",
+    "satis_muamele": "H.M.S."
+  },
+  {
+    "urun": "Kırmızı Sert Buğday (H.T.S.)",
+    "en_az": "19,4300 TL",
+    "en_cok": "20,8000 TL",
+    "ortalama": "19,8677 TL",
+    "miktar": "175.200 KG",
+    "satis_muamele": "H.T.S."
+  },
+  {
+    "urun": "Diğer Beyaz Buğday (H.T.S.)",
+    "en_az": "17,0000 TL",
+    "en_cok": "17,0000 TL",
+    "ortalama": "17,0000 TL",
+    "miktar": "10.860 KG",
+    "satis_muamele": "H.T.S."
+  },
+  {
+    "urun": "Diğer Kırmızı Buğday (H.T.S.)",
+    "en_az": "16,7900 TL",
+    "en_cok": "19,5000 TL",
+    "ortalama": "18,1890 TL",
+    "miktar": "1.041.040 KG",
+    "satis_muamele": "H.T.S."
+  },
+  {
+    "urun": "Diğer Kırmızı Buğday (H.M.S.)",
+    "en_az": "14,5000 TL",
+    "en_cok": "19,0000 TL",
+    "ortalama": "17,4093 TL",
+    "miktar": "434.200 KG",
+    "satis_muamele": "H.M.S."
+  },
+  {
+    "urun": "Arpa (H.M.S.)",
+    "en_az": "11,7500 TL",
+    "en_cok": "15,5000 TL",
+    "ortalama": "13,7899 TL",
+    "miktar": "306.680 KG",
+    "satis_muamele": "H.M.S."
+  },
+  {
+    "urun": "Arpa (H.T.S.)",
+    "en_az": "14,1310 TL",
+    "en_cok": "15,5000 TL",
+    "ortalama": "15,1746 TL",
+    "miktar": "411.530 KG",
+    "satis_muamele": "H.T.S."
+  },
+  {
+    "urun": "Mısır (H.M.S.)",
+    "en_az": "15,2520 TL",
+    "en_cok": "15,2520 TL",
+    "ortalama": "15,2520 TL",
+    "miktar": "2.100 KG",
+    "satis_muamele": "H.M.S."
+  },
+  {
+    "urun": "Mısır (H.T.S.)",
+    "en_az": "14,1750 TL",
+    "en_cok": "17,9223 TL",
+    "ortalama": "16,8183 TL",
+    "miktar": "314.210 KG",
+    "satis_muamele": "H.T.S."
+  },
+  {
+    "urun": "Nohut (H.T.S.)",
+    "en_az": "33,0000 TL",
+    "en_cok": "36,0000 TL",
+    "ortalama": "34,1766 TL",
+    "miktar": "41.570 KG",
+    "satis_muamele": "H.T.S."
+  },
+  {
+    "urun": "Nohut (H.M.S.)",
+    "en_az": "30,5010 TL",
+    "en_cok": "36,2500 TL",
+    "ortalama": "34,8775 TL",
+    "miktar": "83.400 KG",
+    "satis_muamele": "H.M.S."
+  },
+  {
+    "urun": "Kuru Fasulye (H.T.S.)",
+    "en_az": "67,0000 TL",
+    "en_cok": "67,0000 TL",
+    "ortalama": "67,0000 TL",
+    "miktar": "27.600 KG",
+    "satis_muamele": "H.T.S."
+  },
+  {
+    "urun": "Kuru Fasulye (H.M.S.)",
+    "en_az": "60,0000 TL",
+    "en_cok": "71,5000 TL",
+    "ortalama": "67,4851 TL",
+    "miktar": "180.260 KG",
+    "satis_muamele": "H.M.S."
+  },
+  {
+    "urun": "Mercimek (H.M.S.)",
+    "en_az": "25,0000 TL",
+    "en_cok": "25,0000 TL",
+    "ortalama": "25,0000 TL",
+    "miktar": "4.520 KG",
+    "satis_muamele": "H.M.S."
   }
 ]
