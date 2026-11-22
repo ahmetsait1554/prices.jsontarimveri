@@ -41,10 +41,10 @@
     ]
   },
   {
-    category: "Sebzeler",
-    market: "İstanbul Toptancı Hali",
-    date: "24 Ağustos 2026",
-    items": [
+    "category": "Sebzeler",
+    "market": "İstanbul Toptancı Hali",
+    "date": "24 Ağustos 2026",
+    "items": [
       { "product": "Acur", "unit": "Kilogram", "minPrice": "15,00 TL", "maxPrice": "21,00 TL" },
       { "product": "Bamya", "unit": "Kilogram", "minPrice": "83,00 TL", "maxPrice": "139,00 TL" },
       { "product": "Barbunya", "unit": "Kilogram", "minPrice": "59,00 TL", "maxPrice": "82,00 TL" },
