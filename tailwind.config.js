@@ -14,6 +14,14 @@ export default {
           600: '#283445',
           500: '#3a485c',
         },
+        brand: {
+          dark: '#132C3C',
+          card: '#1E3F52',
+          forest: '#3B7A57',
+          gold: '#D4AF5A',
+          mist: '#F4F6F8',
+          subtle: '#CBD5E1',
+        },
       },
       fontFamily: {
         sans: ['Inter', 'system-ui', 'sans-serif'],
@@ -37,7 +45,7 @@ export default {
         },
       },
       animation: {
-        ticker: 'ticker 200s linear infinite',
+        ticker: 'ticker 800s linear infinite',
         'fade-in': 'fade-in 0.4s ease-out',
         'pulse-dot': 'pulse-dot 1.6s ease-in-out infinite',
         shimmer: 'shimmer 1.8s infinite',

@@ -6,6 +6,60 @@
   color-scheme: dark;
 }
 
+html[data-theme='light'] {
+  color-scheme: light;
+}
+
+html[data-theme='light'] body {
+  background-color: #f4f7f8;
+  color: #17252b;
+}
+
+html[data-theme='light'] .bg-ink-950 { background-color: #f4f7f8 !important; }
+html[data-theme='light'] .bg-ink-900 { background-color: #ffffff !important; }
+html[data-theme='light'] .bg-ink-850 { background-color: #f8fafb !important; }
+html[data-theme='light'] .bg-ink-800 { background-color: #eef3f5 !important; }
+html[data-theme='light'] .border-ink-700,
+html[data-theme='light'] [class~='border-ink-700/60'],
+html[data-theme='light'] [class~='border-ink-700/80'],
+html[data-theme='light'] [class~='border-ink-700/50'] { border-color: #d6e0e4 !important; }
+html[data-theme='light'] .text-white { color: #14252c !important; }
+html[data-theme='light'] .text-slate-200 { color: #263940 !important; }
+html[data-theme='light'] .text-slate-300 { color: #3a4e56 !important; }
+html[data-theme='light'] .text-slate-400 { color: #536870 !important; }
+html[data-theme='light'] .text-slate-500 { color: #647980 !important; }
+html[data-theme='light'] .text-slate-600 { color: #71858c !important; }
+html[data-theme='light'] .card { background-color: rgba(255, 255, 255, 0.88) !important; }
+html[data-theme='light'] .placeholder\:text-slate-600::placeholder { color: #71858c !important; }
+
+html[data-theme='emerald'] {
+  color-scheme: dark;
+}
+
+html[data-theme='emerald'] body {
+  background-color: #04140e;
+  color: #d6f5e6;
+}
+
+html[data-theme='emerald'] .bg-ink-950 { background-color: #04140e !important; }
+html[data-theme='emerald'] .bg-ink-900 { background-color: #06241a !important; }
+html[data-theme='emerald'] .bg-ink-850 { background-color: #072b1f !important; }
+html[data-theme='emerald'] .bg-ink-800 { background-color: #0a3527 !important; }
+html[data-theme='emerald'] .border-ink-700,
+html[data-theme='emerald'] [class~='border-ink-700/60'],
+html[data-theme='emerald'] [class~='border-ink-700/80'],
+html[data-theme='emerald'] [class~='border-ink-700/50'] { border-color: #0e4a36 !important; }
+html[data-theme='emerald'] .text-white { color: #eafff4 !important; }
+html[data-theme='emerald'] .text-slate-200 { color: #c7ecd8 !important; }
+html[data-theme='emerald'] .text-slate-300 { color: #a7e0c2 !important; }
+html[data-theme='emerald'] .text-slate-400 { color: #7fc9a3 !important; }
+html[data-theme='emerald'] .text-slate-500 { color: #6bb892 !important; }
+html[data-theme='emerald'] .text-slate-600 { color: #5a9e7d !important; }
+html[data-theme='emerald'] .text-emerald-300 { color: #6ee7b7 !important; }
+html[data-theme='emerald'] .text-emerald-400 { color: #34d399 !important; }
+html[data-theme='emerald'] .card { background-color: rgba(7, 43, 31, 0.85) !important; }
+html[data-theme='emerald'] .placeholder\:text-slate-600::placeholder { color: #5a9e7d !important; }
+
 html,
 body {
   background-color: #060a0f;
@@ -135,5 +189,39 @@ span[class*="bolt"],
   .report-footer {
     break-inside: avoid;
     page-break-inside: avoid;
+  }
+}
+/* Normal ekranda kurumsal alt metni kesinlikle gizle */
+.print-footer {
+  display: none !important;
+}
+
+/* YAZDIRMA (PDF) AYARLARI */
+@media print {
+  /* Tarayıcının otomatik eklediği bolt.new filigranını tamamen yok etmek için kenar boşluğunu sıfırlıyoruz */
+  @page {
+    size: auto !important;
+    margin: 0mm !important; 
+  }
+
+  /* Sayfa içeriğinin kağıdın kenarlarına yapışmaması için ana gövdeye boşluk veriyoruz */
+  body {
+    margin: 12mm 15mm 15mm 15mm !important;
+  }
+
+  /* İstediğiniz kurumsal alt metni PDF sayfasının en altına sabitler */
+  .print-footer {
+    display: block !important;
+    position: fixed !important;
+    bottom: 5mm !important;
+    left: 0 !important;
+    width: 100% !important;
+    text-align: center !important;
+    font-size: 10pt !important;
+    color: #555555 !important;
+    border-top: 1px solid #dddddd !important;
+    padding-top: 5px !important;
+    font-family: sans-serif !important;
+    z-index: 99999 !important;
   }
 }

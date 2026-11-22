@@ -25,6 +25,8 @@ export interface ExchangeQuote {
   city: string;
   product: string;
   last: number;
+  minPrice?: number;
+  maxPrice?: number;
   changePct: number;
   volume: number;
   unit: string;

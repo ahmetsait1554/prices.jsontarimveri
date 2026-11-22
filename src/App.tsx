@@ -1,21 +1,27 @@
-import { createContext, useCallback, useContext, useState } from 'react';
+import { createContext, useCallback, useContext, useEffect, useState } from 'react';
+import { useLocation, useNavigate as useRouterNavigate } from 'react-router-dom';
 import { Sidebar, type PageId } from '@/components/Sidebar';
 import { TopBar } from '@/components/TopBar';
 import type { AuthUser } from '@/components/AuthModal';
+import { SettingsModal, type UserSettings } from '@/components/SettingsModal';
+import { Footer } from '@/components/Footer';
 import { TickerBand } from '@/components/TickerBand';
 import { Dashboard } from '@/pages/Dashboard';
 import { Commodities } from '@/pages/Commodities';
 import { Compare } from '@/pages/Compare';
 import { CalculatorPage } from '@/pages/CalculatorPage';
 import { Regions } from '@/pages/Regions';
-import { TechnicalAnalysis } from '@/pages/TechnicalAnalysis';
 import { ExchangeDetail } from '@/pages/ExchangeDetail';
 import { LivestockPage } from '@/pages/LivestockPage';
 import { LogisticsPage } from '@/pages/LogisticsPage';
 import { ClimatePage } from '@/pages/ClimatePage';
 import { NewsPage } from '@/pages/NewsPage';
 import { HalPiyasalari } from '@/pages/HalPiyasalari';
+import { DonationPage } from '@/pages/DonationPage';
+import { AdvertisePage } from '@/pages/AdvertisePage';
+import { LegalPages } from '@/pages/LegalPages';
 import { matchCommodityId } from '@/lib/mockData';
+import { supabase } from '@/lib/supabase';
 
 interface NavContext {
   exchangeId: string | null;
@@ -38,6 +44,30 @@ const Ctx = createContext<NavContext>({
 });
 
 export const useNav = () => useContext(Ctx);
+
+const pagePathById: Record<PageId, string> = {
+  dashboard: '/dashboard',
+  commodities: '/emtia-analizi',
+  technical: '/teknik-analiz',
+  compare: '/karsilastirma',
+  calculator: '/karlilik-hesapla',
+  regions: '/bolgesel-arz',
+  exchange: '/borsa-detay',
+  livestock: '/kesim-fiyatlari',
+  logistics: '/lojistik-elus',
+  climate: '/iklim-risk-ndvi',
+  news: '/foodecon',
+  hal: '/hal-piyasalari',
+  donation: '/bagis',
+  advertise: '/reklam-ver',
+  privacy: '/gizlilik-politikasi',
+  terms: '/kullanim-sartlari',
+  contact: '/iletisim',
+};
+
+const pageIdByPath: Record<string, PageId> = Object.fromEntries(
+  Object.entries(pagePathById).map(([id, path]) => [path, id as PageId]),
+) as Record<string, PageId>;
 
 const pageMeta: Record<PageId, { title: string; subtitle: string }> = {
   dashboard: {
@@ -88,71 +118,139 @@ const pageMeta: Record<PageId, { title: string; subtitle: string }> = {
     title: 'Hal Piyasaları',
     subtitle: 'Toptancı hal fiyatları ve şehir bazlı ürün bültenleri',
   },
+  donation: {
+    title: 'Bağış Yap',
+    subtitle: 'Reklam izleyerek tarım verilerine destek olun',
+  },
+  advertise: {
+    title: 'Reklam Ver',
+    subtitle: 'Markanızı tarım kararlarının alındığı yerde görünür kılın',
+  },
+  privacy: {
+    title: 'Gizlilik Politikası',
+    subtitle: 'Verilerinizin nasıl işlendiğini ve korunduğunu açıklar',
+  },
+  terms: {
+    title: 'Kullanım Şartları',
+    subtitle: 'Platform kullanım koşulları ve sorumluluk sınırları',
+  },
+  contact: {
+    title: 'İletişim',
+    subtitle: 'Bizimle iletişime geçin',
+  },
 };
 
 function App() {
-  const [page, setPage] = useState<PageId>(() => {
-    const params = new URLSearchParams(window.location.search);
-    return window.location.pathname === '/teknik-analiz' || params.has('urun') ? 'technical' : 'dashboard';
-  });
+  const location = useLocation();
+  const routerNavigate = useRouterNavigate();
+  const currentPath = location.pathname.replace(/\/$/, '') || '/dashboard';
+  const [page, setPage] = useState<PageId>(() => pageIdByPath[currentPath] ?? 'dashboard');
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [exchangeId, setExchangeId] = useState<string | null>(null);
-  const [technicalSymbolId, setTechnicalSymbolId] = useState<string | null>(() => {
-    const params = new URLSearchParams(window.location.search);
-    return params.get('urun');
-  });
+  const [technicalSymbolId, setTechnicalSymbolId] = useState<string | null>(null);
   const [selectedProductName, setSelectedProductName] = useState<string | null>(null);
   const [authOpen, setAuthOpen] = useState(false);
-  const [user, setUser] = useState<AuthUser | null>(() => {
-    try {
-      const raw = localStorage.getItem('tf_user');
-      return raw ? JSON.parse(raw) : null;
-    } catch {
-      return null;
-    }
+  const [settingsOpen, setSettingsOpen] = useState(false);
+  const [theme, setTheme] = useState<UserSettings['theme']>(() => {
+    const saved = localStorage.getItem('tf_theme');
+    return saved === 'light' || saved === 'system' || saved === 'emerald' ? saved : 'dark';
   });
+  const [user, setUser] = useState<AuthUser | null>(null);
+
+  useEffect(() => {
+    const applyTheme = () => {
+      const isLight = theme === 'light' || (theme === 'system' && window.matchMedia('(prefers-color-scheme: light)').matches);
+      const themeAttr = theme === 'emerald' ? 'emerald' : (isLight ? 'light' : 'dark');
+      document.documentElement.dataset.theme = themeAttr;
+      document.documentElement.style.colorScheme = isLight ? 'light' : 'dark';
+    };
+    applyTheme();
+    if (theme !== 'system') return;
+    const media = window.matchMedia('(prefers-color-scheme: light)');
+    media.addEventListener('change', applyTheme);
+    return () => media.removeEventListener('change', applyTheme);
+  }, [theme]);
+
+  useEffect(() => {
+    if (!supabase) return;
+    supabase.auth.getSession().then(({ data }) => {
+      const sessionUser = data.session?.user;
+      if (sessionUser) {
+        setUser({ id: sessionUser.id, name: String(sessionUser.user_metadata?.name ?? sessionUser.email?.split('@')[0] ?? 'Kullanıcı'), email: sessionUser.email ?? '' });
+      }
+    });
+    const { data: listener } = supabase.auth.onAuthStateChange((_event, session) => {
+      const sessionUser = session?.user;
+      setUser(sessionUser ? { id: sessionUser.id, name: String(sessionUser.user_metadata?.name ?? sessionUser.email?.split('@')[0] ?? 'Kullanıcı'), email: sessionUser.email ?? '' } : null);
+    });
+    return () => listener.subscription.unsubscribe();
+  }, []);
 
   const handleLogin = useCallback((u: AuthUser) => {
     setUser(u);
-    localStorage.setItem('tf_user', JSON.stringify(u));
     setAuthOpen(false);
   }, []);
 
   const handleLogout = useCallback(() => {
+    void supabase?.auth.signOut();
     setUser(null);
-    localStorage.removeItem('tf_user');
+    setSettingsOpen(false);
   }, []);
 
+  const handleSettingsSave = useCallback((s: UserSettings) => {
+    const updated = { id: user?.id ?? '', name: s.name, email: s.email };
+    setUser(updated);
+    setTheme(s.theme);
+    localStorage.setItem('tf_user', JSON.stringify(updated));
+    localStorage.setItem('tf_theme', s.theme);
+  }, [user?.id]);
+
   const meta = pageMeta[page];
+
+  useEffect(() => {
+    const nextPage = pageIdByPath[currentPath];
+    if (nextPage) {
+      setPage(nextPage);
+      const params = new URLSearchParams(location.search);
+      const exchange = params.get('borsa');
+      const product = params.get('urun');
+      if (exchange) setExchangeId(exchange);
+      if (product) setTechnicalSymbolId(product);
+      return;
+    }
+    routerNavigate(pagePathById.dashboard, { replace: true });
+  }, [currentPath, location.search, routerNavigate]);
 
   const goPage = useCallback((p: PageId) => {
     setPage(p);
     setSidebarOpen(false);
-  }, []);
+    routerNavigate(pagePathById[p]);
+  }, [routerNavigate]);
 
   const goExchange = useCallback((id: string) => {
     setExchangeId(id);
     setPage('exchange');
     setSidebarOpen(false);
-  }, []);
+    routerNavigate(`${pagePathById.exchange}?borsa=${encodeURIComponent(id)}`);
+  }, [routerNavigate]);
 
   const goTechnical = useCallback((symbolId: string) => {
     setTechnicalSymbolId(symbolId);
-    window.history.pushState({}, '', `/teknik-analiz?urun=${encodeURIComponent(symbolId)}`);
-    setPage('technical');
+    setPage('commodities');
     setSidebarOpen(false);
-  }, []);
+    routerNavigate(`${pagePathById.commodities}?urun=${encodeURIComponent(symbolId)}`);
+  }, [routerNavigate]);
 
-  const goProduct = useCallback((productName: string, targetPage: PageId = 'technical') => {
+  const goProduct = useCallback((productName: string, targetPage: PageId = 'commodities') => {
     setSelectedProductName(productName);
     const commodityId = matchCommodityId(productName);
     if (commodityId) {
       setTechnicalSymbolId(commodityId);
-      window.history.pushState({}, '', `/teknik-analiz?urun=${encodeURIComponent(commodityId)}`);
     }
     setPage(targetPage);
     setSidebarOpen(false);
-  }, []);
+    routerNavigate(pagePathById[targetPage]);
+  }, [routerNavigate]);
 
   const navigate = (p: PageId) => goPage(p);
 
@@ -173,6 +271,7 @@ function App() {
             onAuthClose={() => setAuthOpen(false)}
             onLogin={handleLogin}
             onLogout={handleLogout}
+            onSettingsOpen={() => setSettingsOpen(true)}
             user={user}
           />
           <TickerBand />
@@ -181,7 +280,6 @@ function App() {
             {page === 'dashboard' && <Dashboard />}
             {page === 'commodities' && <Commodities />}
             {page === 'exchange' && <ExchangeDetail />}
-            {page === 'technical' && <TechnicalAnalysis />}
             {page === 'compare' && <Compare />}
             {page === 'calculator' && <CalculatorPage />}
             {page === 'regions' && <Regions />}
@@ -190,8 +288,30 @@ function App() {
             {page === 'climate' && <ClimatePage />}
             {page === 'news' && <NewsPage />}
             {page === 'hal' && <HalPiyasalari />}
+            {page === 'donation' && <DonationPage />}
+            {page === 'advertise' && <AdvertisePage />}
+            {page === 'privacy' && <LegalPages page="privacy" />}
+            {page === 'terms' && <LegalPages page="terms" />}
+            {page === 'contact' && <LegalPages page="contact" />}
           </main>
+
+          <Footer />
         </div>
+
+        {user && (
+          <SettingsModal
+            open={settingsOpen}
+            onClose={() => setSettingsOpen(false)}
+            user={user}
+            initialTheme={theme}
+            onSave={handleSettingsSave}
+            onDonate={() => {
+              setSettingsOpen(false);
+              goPage('donation');
+            }}
+            onLogout={handleLogout}
+          />
+        )}
       </div>
     </Ctx.Provider>
   );
